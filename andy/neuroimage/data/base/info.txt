@@ -1,0 +1,2 @@
+This is 10-30-24 invertibility analysis
+Run on just the base unmodified set of correspondences

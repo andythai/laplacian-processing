@@ -1,0 +1,14 @@
+import numpy as np
+import nibabel as nib
+import ants
+import os
+
+# ANTsPy for image registration
+# NumPy for numerical operations
+# nibabel for loading and saving NIfTI images
+
+# List of required packages
+numpy
+nibabel
+antspyx
+```

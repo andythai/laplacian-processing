@@ -1,0 +1,832 @@
+Doing slice: 0
+
+NO MASK
+
+Metrics for CH1 and CH2
+Thresh1: 0 Thresh2: 3000
+Dice coefficient: 0.4009046248368274
+IoU score: 0.2507071379628741
+Precision score: 0.31505934946168185
+Recall score: 0.5510514605206333
+SSIM score: 0.4950679588196977
+MSE score: 0.2515048985439901
+Hamming distance: 0.2515048985439901
+Rand index: 0.74849510145601
+
+
+Slice index: 0
+Thresh3: 4000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 4000 Thresh2: 3000
+Dice coefficient: 0.4072227150914515
+IoU score: 0.2556683341417898
+Precision score: 0.3428134046537294
+Recall score: 0.5014344555742153
+SSIM score: 0.5410431645132676
+MSE score: 0.22293236358204993
+Hamming distance: 0.22293236358204993
+Rand index: 0.7770676364179501
+
+
+Slice index: 0
+Thresh3: 5000
+
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 5000 Thresh2: 3000
+Dice coefficient: 0.40158043566892165
+IoU score: 0.2512359361898694
+Precision score: 0.4034395395667014
+Recall score: 0.3997383871813115
+SSIM score: 0.6194552940035831
+MSE score: 0.18193174400336343
+Hamming distance: 0.18193174400336343
+Rand index: 0.8180682559966366
+
+
+Slice index: 0
+Thresh3: 6000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.363114600912658
+IoU score: 0.22183263478012286
+Precision score: 0.4621769267862854
+Recall score: 0.2990225461345885
+SSIM score: 0.6670169958692881
+MSE score: 0.16018465311891486
+Hamming distance: 0.16018465311891486
+Rand index: 0.8398153468810852
+
+
+Slice index: 0
+Thresh3: 6500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 6500 Thresh2: 3000
+Dice coefficient: 0.3350265392152281
+IoU score: 0.20122034801522665
+Precision score: 0.4903999567085965
+Recall score: 0.2544189755894071
+SSIM score: 0.6813978368640567
+MSE score: 0.15423182269538857
+Hamming distance: 0.15423182269538857
+Rand index: 0.8457681773046114
+
+
+Slice index: 0
+Thresh3: 7000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 7000 Thresh2: 3000
+Dice coefficient: 0.3040356964203534
+IoU score: 0.17927010360927392
+Precision score: 0.5188648808865249
+Recall score: 0.21501256839601682
+SSIM score: 0.6916721864702664
+MSE score: 0.15032306602938572
+Hamming distance: 0.15032306602938572
+Rand index: 0.8496769339706143
+
+
+
+
+Slice index: 0
+Thresh3: 7500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.27274313571059994
+IoU score: 0.15790537085102713
+Precision score: 0.5448619981655141
+Recall score: 0.18189822684016205
+SSIM score: 0.6986534989962928
+MSE score: 0.1481364234820322
+Hamming distance: 0.1481364234820322
+Rand index: 0.8518635765179677
+
+
+Slice index: 0
+Thresh3: 8000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 8000 Thresh2: 3000
+Dice coefficient: 0.24207117692485372
+IoU score: 0.13770249042358745
+Precision score: 0.5639525611140822
+Recall score: 0.15411089281742063
+SSIM score: 0.7026933380521763
+MSE score: 0.14737304860373518
+Hamming distance: 0.14737304860373518
+Rand index: 0.8526269513962649
+
+
+Slice index: 0
+Thresh3: 8500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 8500 Thresh2: 3000
+Dice coefficient: 0.21364800835133135
+IoU score: 0.11960017362208122
+Precision score: 0.5762734967899846
+Recall score: 0.13113198202558055
+SSIM score: 0.7049361861356834
+MSE score: 0.14740973236413524
+Hamming distance: 0.14740973236413524
+Rand index: 0.8525902676358648
+
+
+Slice index: 0
+Thresh3: 9000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 9000 Thresh2: 3000
+Dice coefficient: 0.18890971608750157
+IoU score: 0.10430717770701078
+Precision score: 0.5850842948847991
+Recall score: 0.11263909147562196
+SSIM score: 0.7062035732485765
+MSE score: 0.14770780088289961
+Hamming distance: 0.14770780088289961
+Rand index: 0.8522921991171004
+
+
+
+
+Doing slice: 1
+
+NO MASK
+
+Metrics for CH1 and CH2
+Thresh1: 0 Thresh2: 3000
+Dice coefficient: 0.3976773002241898
+IoU score: 0.24818802122682967
+Precision score: 0.31289600187106537
+Recall score: 0.5454783727487427
+SSIM score: 0.491227709214166
+MSE score: 0.2537127723158235
+Hamming distance: 0.2537127723158235
+Rand index: 0.7462872276841765
+
+
+
+Slice index: 1
+Thresh3: 4000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 4000 Thresh2: 3000
+Dice coefficient: 0.38558557066996635
+IoU score: 0.23883927426861554
+Precision score: 0.407021812336653
+Recall score: 0.3662942878971508
+SSIM score: 0.6245913221271786
+MSE score: 0.1792409119232769
+Hamming distance: 0.1792409119232769
+Rand index: 0.8207590880767232
+
+
+Slice index: 1
+Thresh3: 5000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 5000 Thresh2: 3000
+Dice coefficient: 0.3247306988291672
+IoU score: 0.1938379092855193
+Precision score: 0.4944760735052087
+Recall score: 0.24174401676326615
+SSIM score: 0.6805004545726963
+MSE score: 0.15437456928111704
+Hamming distance: 0.15437456928111704
+Rand index: 0.845625430718883
+
+
+
+Slice index: 1
+Thresh3: 6000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.245836730615445
+IoU score: 0.1401447259249114
+Precision score: 0.5761866533638593
+Recall score: 0.15625165803534322
+SSIM score: 0.7022287768475542
+MSE score: 0.14720060849664987
+Hamming distance: 0.14720060849664987
+Rand index: 0.8527993915033502
+
+
+
+Slice index: 1
+Thresh3: 6500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 6500 Thresh2: 3000
+Dice coefficient: 0.2090287655390422
+IoU score: 0.11671251973064502
+Precision score: 0.6056312214343806
+Recall score: 0.1263122058775953
+SSIM score: 0.7063549477457741
+MSE score: 0.14677980929271864
+Hamming distance: 0.14677980929271864
+Rand index: 0.8532201907072814
+
+
+
+Slice index: 1
+Thresh3: 7000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 7000 Thresh2: 3000
+Dice coefficient: 0.17798546403104828
+IoU score: 0.09768608346277281
+Precision score: 0.6266736352602817
+Recall score: 0.10372211203217273
+SSIM score: 0.7082652136715213
+MSE score: 0.14710677658669621
+Hamming distance: 0.14710677658669621
+Rand index: 0.8528932234133038
+
+
+Slice index: 1
+Thresh3: 7500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.1522525736261853
+IoU score: 0.08239901809793312
+Precision score: 0.6404481530621431
+Recall score: 0.08639562403099811
+SSIM score: 0.7091411587990664
+MSE score: 0.14772702400580667
+Hamming distance: 0.14772702400580667
+Rand index: 0.8522729759941934
+
+
+Slice index: 1
+Thresh3: 8000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 8000 Thresh2: 3000
+Dice coefficient: 0.13138962304116766
+IoU score: 0.07031408187671771
+Precision score: 0.650312215699458
+Recall score: 0.07307708962225413
+SSIM score: 0.7094129868758857
+MSE score: 0.14835819988486448
+Hamming distance: 0.14835819988486448
+Rand index: 0.8516418001151356
+
+
+Slice index: 1
+Thresh3: 8500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 8500 Thresh2: 3000
+Dice coefficient: 0.11429546366410051
+IoU score: 0.060611544100215894
+Precision score: 0.6578779669317193
+Recall score: 0.06258422072961022
+SSIM score: 0.7094409180467712
+MSE score: 0.1489330521626551
+Hamming distance: 0.1489330521626551
+Rand index: 0.8510669478373449
+
+
+Slice index: 1
+Thresh3: 9000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 9000 Thresh2: 3000
+Dice coefficient: 0.10008061959894948
+IoU score: 0.05267624544038478
+Precision score: 0.6658238888317236
+Recall score: 0.05410672645963104
+SSIM score: 0.7094378637264922
+MSE score: 0.14940710277142075
+Hamming distance: 0.14940710277142075
+Rand index: 0.8505928972285792
+
+
+
+
+Doing slice: 2
+
+
+NO MASK
+
+Metrics for CH1 and CH2
+Thresh1: 0 Thresh2: 3000
+Dice coefficient: 0.4120666756774329
+IoU score: 0.2594987266566912
+Precision score: 0.3208642599863917
+Recall score: 0.5757049864419673
+SSIM score: 0.5486612694001759
+MSE score: 0.21815654394549858
+Hamming distance: 0.21815654394549858
+Rand index: 0.7818434560545015
+
+
+Slice index: 2
+Thresh3: 4000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 4000 Thresh2: 3000
+Dice coefficient: 0.4383685035611923
+IoU score: 0.280711873806888
+Precision score: 0.4902277436011668
+Recall score: 0.39643158543147433
+SSIM score: 0.7015610043279049
+MSE score: 0.13489257108586497
+Hamming distance: 0.13489257108586497
+Rand index: 0.8651074289141351
+
+
+
+
+Slice index: 2
+Thresh3: 5000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 5000 Thresh2: 3000
+Dice coefficient: 0.34618352568930477
+IoU score: 0.2093240278269648
+Precision score: 0.6391020487425964
+Recall score: 0.23738381662826946
+SSIM score: 0.7477147684182893
+MSE score: 0.11907161433788653
+Hamming distance: 0.11907161433788653
+Rand index: 0.8809283856621135
+
+
+
+Slice index: 2
+Thresh3: 6000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.24437037200748052
+IoU score: 0.13919244019987667
+Precision score: 0.7171181962666976
+Recall score: 0.1472791367868208
+SSIM score: 0.7539925212381592
+MSE score: 0.12095096261762929
+Hamming distance: 0.12095096261762929
+Rand index: 0.8790490373823707
+
+
+Slice index: 2
+Thresh3: 6500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 6500 Thresh2: 3000
+Dice coefficient: 0.20677189452750658
+IoU score: 0.11530707883536363
+Precision score: 0.7391089911069426
+Recall score: 0.12019932880645554
+SSIM score: 0.7539002623500357
+MSE score: 0.12246621630250822
+Hamming distance: 0.12246621630250822
+Rand index: 0.8775337836974918
+
+
+Slice index: 2
+Thresh3: 7000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 7000 Thresh2: 3000
+Dice coefficient: 0.17644531600240185
+IoU score: 0.09675899360231868
+Precision score: 0.7530812031568335
+Recall score: 0.09992926452902245
+SSIM score: 0.7533146334191808
+MSE score: 0.12387471539345307
+Hamming distance: 0.12387471539345307
+Rand index: 0.8761252846065469
+
+
+
+
+
+Slice index: 2
+Thresh3: 7500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.1522700251512476
+IoU score: 0.08240924118996977
+Precision score: 0.7603567505244171
+Recall score: 0.08460674011422505
+SSIM score: 0.752606569744701
+MSE score: 0.12509955162815123
+Hamming distance: 0.12509955162815123
+Rand index: 0.8749004483718488
+
+
+
+Slice index: 2
+Thresh3: 8000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 8000 Thresh2: 3000
+Dice coefficient: 0.13270433131545986
+IoU score: 0.07106765872217041
+Precision score: 0.7645246229447147
+Recall score: 0.07265807165777304
+SSIM score: 0.7518743546571277
+MSE score: 0.12611699608741028
+Hamming distance: 0.12611699608741028
+Rand index: 0.8738830039125897
+
+
+Slice index: 2
+Thresh3: 8500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 8500 Thresh2: 3000
+Dice coefficient: 0.11665169165764774
+IoU score: 0.061938458829381336
+Precision score: 0.7673956913262978
+Recall score: 0.06312354567919756
+SSIM score: 0.7512289433129757
+MSE score: 0.12695213143931092
+Hamming distance: 0.12695213143931092
+Rand index: 0.873047868560689
+
+
+
+Slice index: 2
+Thresh3: 9000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 9000 Thresh2: 3000
+Dice coefficient: 0.10311243929450348
+IoU score: 0.05435875137277698
+Precision score: 0.7696920090611573
+Recall score: 0.0552575304905464
+SSIM score: 0.7506881722805845
+MSE score: 0.12765154707955498
+Hamming distance: 0.12765154707955498
+Rand index: 0.872348452920445
+
+
+
+
+Doing slice: 3
+
+NO MASK
+
+Metrics for CH1 and CH2
+Thresh1: 0 Thresh2: 3000
+Dice coefficient: 0.42185417245684337
+IoU score: 0.26731000715794573
+Precision score: 0.3372095800687057
+Recall score: 0.5632343170396941
+SSIM score: 0.5925866110372826
+MSE score: 0.19449726405060802
+Hamming distance: 0.19449726405060802
+Rand index: 0.8055027359493919
+
+
+Slice index: 3
+Thresh3: 4000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 4000 Thresh2: 3000
+Dice coefficient: 0.4318991287269672
+IoU score: 0.275428154297458
+Precision score: 0.42403888377929144
+Recall score: 0.44005628199656405
+SSIM score: 0.6858493566809541
+MSE score: 0.1458480726833348
+Hamming distance: 0.1458480726833348
+Rand index: 0.8541519273166652
+
+
+
+Slice index: 3
+Thresh3: 5000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 5000 Thresh2: 3000
+Dice coefficient: 0.3894732138756878
+IoU score: 0.2418297026980496
+Precision score: 0.5307396894758082
+Recall score: 0.3075996967500617
+SSIM score: 0.7428194612885171
+MSE score: 0.12149611009596693
+Hamming distance: 0.12149611009596693
+Rand index: 0.878503889904033
+
+
+Slice index: 3
+Thresh3: 6000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.3051017946099909
+IoU score: 0.18001186952686907
+Precision score: 0.6112748684324553
+Recall score: 0.2032824433616828
+SSIM score: 0.7625827848601079
+MSE score: 0.11666098581119899
+Hamming distance: 0.11666098581119899
+Rand index: 0.883339014188801
+
+
+
+Slice index: 3
+Thresh3: 6500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 6500 Thresh2: 3000
+Dice coefficient: 0.26663039463562055
+IoU score: 0.1538220087686209
+Precision score: 0.6341078483393544
+Recall score: 0.1688048192194745
+SSIM score: 0.7652761445663576
+MSE score: 0.1169896479993756
+Hamming distance: 0.1169896479993756
+Rand index: 0.8830103520006244
+
+
+
+Slice index: 3
+Thresh3: 7000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 7000 Thresh2: 3000
+Dice coefficient: 0.2331641214925094
+IoU score: 0.1319670515687464
+Precision score: 0.6491353528062357
+Recall score: 0.14210321908004384
+SSIM score: 0.7663521349689099
+MSE score: 0.11775895932655682
+Hamming distance: 0.11775895932655682
+Rand index: 0.8822410406734432
+
+
+
+
+Slice index: 3
+Thresh3: 7500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.20451601503642927
+IoU score: 0.1139057862666365
+Precision score: 0.6600317709327511
+Recall score: 0.12100521433838168
+SSIM score: 0.7666493500718612
+MSE score: 0.11859258781738075
+Hamming distance: 0.11859258781738075
+Rand index: 0.8814074121826192
+
+
+Slice index: 3
+Thresh3: 8000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 8000 Thresh2: 3000
+Dice coefficient: 0.1800572786677934
+IoU score: 0.09893568438021534
+Precision score: 0.6686754502909533
+Recall score: 0.104035725775637
+SSIM score: 0.7666703176771617
+MSE score: 0.11937260632214995
+Hamming distance: 0.11937260632214995
+Rand index: 0.88062739367785
+
+
+Slice index: 3
+Thresh3: 8500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 8500 Thresh2: 3000
+Dice coefficient: 0.15964779672768556
+IoU score: 0.08674850196816523
+Precision score: 0.6773842501715288
+Recall score: 0.09048701336256307
+SSIM score: 0.7666444616746632
+MSE score: 0.12001458003905464
+Hamming distance: 0.12001458003905464
+Rand index: 0.8799854199609454
+
+
+Slice index: 3
+Thresh3: 9000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 9000 Thresh2: 3000
+Dice coefficient: 0.14195669613117226
+IoU score: 0.07640117742982054
+Precision score: 0.685431607209987
+Recall score: 0.07917738651016136
+SSIM score: 0.7665437126348595
+MSE score: 0.12058792655197266
+Hamming distance: 0.12058792655197266
+Rand index: 0.8794120734480273
+
+
+
+
+Doing slice: 4
+
+
+NO MASK
+
+Metrics for CH1 and CH2
+Thresh1: 0 Thresh2: 4000
+Dice coefficient: 0.43204616196172074
+IoU score: 0.27554775624151573
+Precision score: 0.3545423471469071
+Recall score: 0.5529146398815813
+SSIM score: 0.5749804421438262
+MSE score: 0.20545078544091352
+Hamming distance: 0.20545078544091352
+Rand index: 0.7945492145590864
+
+
+
+Slice index: 4
+Thresh3: 4000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 4000 Thresh2: 4000
+Dice coefficient: 0.4283057124378637
+IoU score: 0.2725121010029317
+Precision score: 0.3667385765791145
+Recall score: 0.514714702494385
+SSIM score: 0.5961706895337703
+MSE score: 0.1941973902291098
+Hamming distance: 0.1941973902291098
+Rand index: 0.8058026097708902
+
+
+
+Slice index: 4
+Thresh3: 5000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 5000 Thresh2: 4000
+Dice coefficient: 0.4349009495115538
+IoU score: 0.2778743935572813
+Precision score: 0.4068268960381092
+Recall score: 0.4671368330221961
+SSIM score: 0.6388450363868625
+MSE score: 0.17157150597086718
+Hamming distance: 0.17157150597086718
+Rand index: 0.8284284940291328
+
+
+
+Slice index: 4
+Thresh3: 6000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 4000
+Dice coefficient: 0.42665000104338774
+IoU score: 0.2711729757055495
+Precision score: 0.46919141601859726
+Recall score: 0.39118169874917746
+SSIM score: 0.6864245627652952
+MSE score: 0.1485913138783449
+Hamming distance: 0.1485913138783449
+Rand index: 0.8514086861216551
+
+
+Slice index: 4
+Thresh3: 6500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 6500 Thresh2: 4000
+Dice coefficient: 0.41206798050589305
+IoU score: 0.25949976160640187
+Precision score: 0.5022565846346806
+Recall score: 0.349338403706456
+SSIM score: 0.7046073703393128
+MSE score: 0.14088715675356317
+Hamming distance: 0.14088715675356317
+Rand index: 0.8591128432464368
+
+
+Slice index: 4
+Thresh3: 7000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 7000 Thresh2: 4000
+Dice coefficient: 0.390521833402844
+IoU score: 0.24263878908559908
+Precision score: 0.5315974248123669
+Recall score: 0.30862008132265617
+SSIM score: 0.7174439304846499
+MSE score: 0.13614567321266116
+Hamming distance: 0.13614567321266116
+Rand index: 0.8638543267873389
+
+
+Slice index: 4
+Thresh3: 7500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 4000
+Dice coefficient: 0.36436460396084075
+IoU score: 0.2227663969874845
+Precision score: 0.5618214104087684
+Recall score: 0.2696084665088553
+SSIM score: 0.7269630573792908
+MSE score: 0.1329450733810166
+Hamming distance: 0.1329450733810166
+Rand index: 0.8670549266189834
+
+
+Slice index: 4
+Thresh3: 8000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 8000 Thresh2: 4000
+Dice coefficient: 0.3341177158974775
+IoU score: 0.2005650213619266
+Precision score: 0.5943938234351287
+Recall score: 0.23236748998958148
+SSIM score: 0.7346211770195358
+MSE score: 0.13090015267015925
+Hamming distance: 0.13090015267015925
+Rand index: 0.8690998473298407
+
+
+Slice index: 4
+Thresh3: 8500
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 8500 Thresh2: 4000
+Dice coefficient: 0.30117756008959445
+IoU score: 0.17728607358487583
+Precision score: 0.625986312428741
+Recall score: 0.1982898704599359
+SSIM score: 0.7399738458329949
+MSE score: 0.13005036938858738
+Hamming distance: 0.13005036938858738
+Rand index: 0.8699496306114126
+
+
+
+Slice index: 4
+Thresh3: 9000
+Beta: 1
+
+Metrics for CH1 and CH2
+Thresh1: 9000 Thresh2: 4000
+Dice coefficient: 0.26896211467763065
+IoU score: 0.15537621502000928
+Precision score: 0.6490498967331948
+Recall score: 0.16962728734421365
+SSIM score: 0.7427625538659873
+MSE score: 0.13032007468812415
+Hamming distance: 0.13032007468812415
+Rand index: 0.8696799253118759

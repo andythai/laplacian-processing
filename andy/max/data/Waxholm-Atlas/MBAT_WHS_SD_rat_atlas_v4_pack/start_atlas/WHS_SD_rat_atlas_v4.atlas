@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Atlas creator="MBAT files created by E.A.Papp" date="27 Sep 2021" credit="Kleven et al. 202x">
+
+  <!-- This .atlas file configures MBAT for viewing the Waxholm Space atlas of the Sprague Dawley rat brain, version 4. 
+
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    About the atlas
+
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    The Waxholm Space (WHS) atlas of the Sprague Dawley rat brain (Papp et al. 2014) is a public resource 
+    based on high resolution magnetic resonance imaging (MRI) and diffusion tensor imaging (DTI) data.
+    The atlas presents brain-wide delineations of major brain regions and tracts.
+
+    Version 4 of the atlas (Kleven et al. 202x) includes a total of 222 anatomical delineations covering all major brain regions,
+    of which 112 are new and 56 are revised. New subdivisions are now available for the basal ganglia (11 new and 2 revised
+    structures), cerebral cortex (35 new and 4 revised structures) and thalamus (60 new and 10 revised structures). The boundaries
+    of 40 adjacent anatomical structures have been revised, and 6 new structures were added.
+
+    The atlas is freely available under the CC BY-SA 4.0 license:
+    https://www.nitrc.org/projects/whs-sd-atlas
+
+    Please cite the atlas according to our citation policy at https://www.nitrc.org/citation/?group_id=1081
+
+    See also the atlas wiki: https://www.nitrc.org/plugins/mwiki/index.php/whs-sd-atlas:MainPage
+
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    Mouse BIRN Atlasing Toolkit (MBAT) setup
+
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    
+    To launch the atlas, select File - Open - 3D atlas in the MBAT Viewer Workspace and browse to this file.
+    By default, only the anatomical delineations are shown. To view the anatomical labels on top of the WHS SD rat MRI/DTI template:
+    1) Download the selected MRI/DTI volume (.nii.gz)
+    2) Place it in the ../Data/ folder
+    3) Replace the <volume ...> tag below with one of the following:
+
+  <volume src="../Data/WHS_SD_rat_T2star_v1.01.nii.gz"/>
+  <volume src="../Data/WHS_SD_rat_b0_v1.01.nii.gz"/>
+  <volume src="../Data/WHS_SD_rat_DWI_v1.01.nii.gz"/>
+
+  These volumes were not displayed properly in MBAT v3.1.4:
+  <volume src="../Data/WHS_SD_rat_ADC_v1.01.nii.gz"/>
+  <volume src="../Data/WHS_SD_rat_FA_v1.01.nii.gz"/>
+  <volume src="../Data/WHS_SD_rat_FA_color_v1.01.nii.gz"/>
+
+    4) Including more than one <volume ...> tag allows quick switching between volumes under Controls - Atlas Properties - Volume.
+       Keep in mind that this requires proportionally more memory.
+  -->
+
+  <volume src="../Data/WHS_SD_rat_atlas_v4.nii.gz"/>
+
+  <labelhierarchy>
+    <label src="../Data/WHS_SD_rat_atlas_v4.nii.gz" alpha="0.75"/>
+    <hierarchy src="../Data/WHS_SD_rat_atlas_v4_labels.ilf"/>
+  </labelhierarchy>
+
+  <!-- This coordinate system setup shows Waxholm Space coordinates in millimeters.  -->
+  <coordinateSystemTransformation description="Waxholm Space">
+    <row axis="x" x1="0.0390625" x2="0" x3="0" x4="-9.53125"/>
+    <row axis="y" x1="0" x2="0.0390625" x3="0" x4="-24.3359375"/>
+    <row axis="z" x1="0" x2="0" x3="0.0390625" x4="-9.6875"/>
+  </coordinateSystemTransformation>
+
+  <!-- For viewing Waxholm Space coordinates in voxels, use this setup instead.			
+  <coordinateSystemTransformation description="Waxholm Space (in voxels)">
+    <row axis="x" x1="1" x2="0" x3="0" x4="-244"/>
+    <row axis="y" x1="0" x2="1" x3="0" x4="-623"/>
+    <row axis="z" x1="0" x2="0" x3="1" x4="-248"/>
+  </coordinateSystemTransformation>
+  -->
+
+</Atlas>

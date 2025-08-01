@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<milf>
+<meta>
+<filename>WHS_SD_rat_atlas_v4_labels.ilf</filename>
+</meta>
+<structure>
+<label abbreviation="Brain" color="#32a852" id="1000" name="Brain">
+	<label abbreviation="wmt" color="#ffffff" id="1001" name="White matter">
+		<label abbreviation="olf" color="#ffffff" id="1050" name="Olfactory white matter">
+		    <label abbreviation="lot" id="180" name="lateral olfactory tract" color="#ff00dd"/>
+        </label>
+		<label abbreviation="cc-ec-cing-dwm" color="#ff6e00" id="67" name="corpus callosum and associated subcortical white matter"/>
+		<label abbreviation="ac" color="#ffffff" id="1002" name="Anterior commissure">
+			<label abbreviation="aca" color="#7cfc00" id="36" name="anterior commissure, anterior limb" description="Name changed based on expert anatomist opinion, from 'anterior commissure, anterior part'"/>
+			<label abbreviation="acp" color="#ffba00" id="37" name="anterior commissure, posterior limb" description="Name changed based on expert anatomist opinion, from 'anterior commissure, posterior part'"/>
+			<label abbreviation="aci" color="#ff4fce" id="73" name="anterior commissure, intrabulbar part" description="Named anterior commissure in the WHS v3 .label (error)"/>
+		</label>
+		<label abbreviation="hiw" color="#ffffff" id="1003" name="Hippocampal white matter">
+			<label abbreviation="alv" color="#ff00ff" id="6" name="alveus of the hippocampus"/>
+			<label abbreviation="vhc" color="#ae00e8" id="38" name="ventral hippocampal commissure"/>
+			<label abbreviation="f" color="#15c0ff" id="52" name="fornix"/>
+			<label abbreviation="fi" color="#00ff1d" id="59" name="fimbria of the hippocampus"/>
+		</label>
+		<label abbreviation="cfp" color="#ffffff" id="1004" name="Corticofugal pathways">
+			<label abbreviation="ic-cp-lfp-py" color="#ff3427" id="1" name="corticofugal tract and corona radiata" description="Name changed based on expert anatomist opinion, from 'descending corticofugal pathways'"/>
+			<label abbreviation="pyx" color="#7209d4" id="85" name="pyramidal decussation"/>
+		</label>
+		<label abbreviation="ml" color="#ffffff" id="1005" name="Medial lemniscus">
+			<label abbreviation="ml-u" color="#d4ff00" id="34" name="medial lemniscus, unspecified" description="Name changed to reflect the possibility for subdivision, from 'medial lemniscus'"/>
+			<label abbreviation="mlx" color="#4196ff" id="84" name="medial lemniscus decussation"/>
+		</label>
+		<label abbreviation="tht" color="#ffffff" id="1006" name="Thalamic tracts">
+            <label abbreviation="eml" color="#ffffff" id="1051" name="External medullary lamina">
+                <label abbreviation="eml-u" id="249" name="external medullary lamina, unspecified" color="#aaff00"/>
+                <label abbreviation="eml-ar" id="157" name="external medullary lamina, auditory radiation" color="#f49cff"/>
+            </label>
+            <label abbreviation="iml" id="291" name="internal medullary lamina" color="#ff5c0a"/>
+            <label abbreviation="ima" id="290" name="intramedullary thalamic area" color="#9b946f"/>
+            <label abbreviation="scp-pr" id="270" name="superior cerebellar peduncle and prerubral field" color="#d2b68c"/>
+            <label abbreviation="ptl" id="239" name="pretectothalamic lamina" color="#db8ff7"/>
+			<label abbreviation="mtg" color="#eeba00" id="53" name="mammillotegmental tract" description="Named mammillothalamic tract in older label files (error)"/>
+			<label abbreviation="cst" color="#adff2f" id="54" name="commissural stria terminalis"/>
+			<label abbreviation="fr" color="#f44345" id="60" name="fasciculus retroflexus"/>
+			<label abbreviation="sm" color="#00ff00" id="61" name="stria medullaris thalami" description="Name changed based on expert anatomist opinion, from 'stria medullaris of the thalamus'"/>
+			<label abbreviation="st" color="#ee7533" id="62" name="stria terminalis"/>
+			<label abbreviation="hbc" color="#45ebca" id="80" name="habenular commissure"/>
+		</label>
+		<label abbreviation="pc" color="#ff00da" id="63" name="posterior commissure"/>		
+		<label abbreviation="7n" color="#ffffff" id="1007" name="Facial nerve">
+			<label abbreviation="7n-u" color="#ff19f0" id="35" name="facial nerve, unspecified" description="Name changed to reflect the possibility for subdivision, from 'facial nerve'"/>
+			<label abbreviation="asc7" color="#b31c35" id="72" name="ascending fibers of the facial nerve"/>
+			<label abbreviation="g7" color="#faf4f7" id="57" name="genu of the facial nerve"/>
+		</label>
+		<label abbreviation="ofs" color="#ffffff" id="1008" name="Optic fiber system and supraoptic decussation">
+			<label abbreviation="2n" color="#30da00" id="41" name="optic nerve"/>
+			<label abbreviation="opt-och" color="#267eff" id="42" name="optic tract and optic chiasm"/>
+			<label abbreviation="sox" color="#faaa40" id="83" name="supraoptic decussation"/>
+		</label>
+		<label abbreviation="tew" color="#ffffff" id="1009" name="White matter of the tectum">
+			<label abbreviation="csc" color="#21e6ff" id="46" name="commissure of the superior colliculus"/>
+			<label abbreviation="bsc" color="#bc20ad" id="68" name="brachium of the superior colliculus"/>
+			<label abbreviation="cic" color="#ff2a27" id="69" name="inferior colliculus, commissure"/>
+			<label abbreviation="bic" color="#b03a48" id="146" name="inferior colliculus, brachium"/>
+		</label>
+		<label abbreviation="cbt" color="#ffffff" id="1010" name="Cerebellar and precerebellar white matter">
+			<label abbreviation="icp" color="#34ff0d" id="7" name="inferior cerebellar peduncle"/>
+			<label abbreviation="mcp" color="#86cc4c" id="78" name="middle cerebellar peduncle"/>
+			<label abbreviation="tfp" color="#80aaff" id="79" name="transverse fibers of the pons"/>
+		</label>
+		<label abbreviation="bsw" color="#ffffff" id="1011" name="White matter of the brainstem">
+			<label abbreviation="ll" color="#ffffff" id="1012" name="Lateral lemniscus">
+				<label abbreviation="ll-c" color="#ff1d00" id="140" name="lateral lemniscus, commissure"/>
+				<label abbreviation="ll-u" color="#ffa600" id="141" name="lateral lemniscus, unspecified" description="Name changed to reflect the possibility for subdivision, from 'lateral lemniscus'"/>
+			</label>
+			<label abbreviation="as" color="#ffd900" id="129" name="acoustic striae"/>
+			<label abbreviation="tz" color="#d5ff00" id="130" name="trapezoid body"/>						
+			<label abbreviation="sp5t" color="#fa8072" id="76" name="spinal trigeminal tract"/>
+		</label>
+	</label>
+	<label abbreviation="GM" color="#808080" id="1013" name="Gray matter">
+        <label abbreviation="Tel" color="#808080" id="1052" name="Telencephalon">
+            <label abbreviation="LamP" color="#808080" id="1053" name="Laminated pallium">
+                <label abbreviation="OB" color="#808080" id="1020" name="Olfactory bulb">
+                    <label abbreviation="GlA" color="#0f6de6" id="64" name="Glomerular layer of the accessory olfactory bulb"/>
+                    <label abbreviation="Gl" color="#ffe300" id="65" name="Glomerular layer of the olfactory bulb"/>
+                    <label abbreviation="OB-u" color="#ff8700" id="66" name="Olfactory bulb, unspecified" description="Name changed to reflect the possibility for subdivision, 'olfactory bulb'"/>
+                    <label abbreviation="NLOT" color="#e6b843" id="502" name="Nucleus of the lateral olfactory tract"/>
+                </label>
+			    <label abbreviation="Cx" color="#808080" id="1015" name="Cerebral cortex">
+                    <label abbreviation="HR" color="#808080" id="1055" name="Hippocampal region">
+                        <label abbreviation="HF" color="#808080" id="1021" name="Hippocampal formation">
+                            <label abbreviation="FC" color="#ff0000" id="99" name="Fasciola cinereum"/>
+                            <label abbreviation="SUB" color="#ffc000" id="100" name="Subiculum"/>
+                            <label abbreviation="CA" color="#808080" id="1022" name="Cornu Ammonis">
+                                <label abbreviation="CA1" color="#d9680d" id="98" name="Cornu ammonis 1"/>
+                                <label abbreviation="CA2" color="#ffff00" id="97" name="Cornu ammonis 2"/>
+                                <label abbreviation="CA3" color="#a5836b" id="95" name="Cornu ammonis 3"/>
+                            </label>
+                            <label abbreviation="DG" color="#5b2d0a" id="96" name="Dentate gyrus"/>
+                        </label>
+                        <label abbreviation="PHR" color="#808080" id="1023" name="Parahippocampal region">
+                            <label abbreviation="POR" color="#287082" id="108" name="Postrhinal cortex" description="Note: in Osen et al. 2019, POR was used as an abbreviation for the superior periolivary region"/>
+                            <label abbreviation="PrS" color="#507baf" id="109" name="Presubiculum"/>
+                            <label abbreviation="PaS" color="#173660" id="110" name="Parasubiculum"/>
+                            <label abbreviation="PER" color="#808080" id="1024" name="Perirhinal cortex">
+                                <label abbreviation="PER35" color="#cd33ff" id="112" name="Perirhinal area 35"/>
+                                <label abbreviation="PER36" color="#7030a0" id="113" name="Perirhinal area 36"/>
+                            </label>
+                            <label abbreviation="EC" color="#808080" id="1025" name="Entorhinal cortex">
+                                <label abbreviation="MEC" color="#7abb33" id="114" name="Medial entorhinal cortex"/>
+                                <label abbreviation="LEC" color="#5a6f2f" id="115" name="Lateral entorhinal cortex"/>
+                            </label>
+                        </label>
+                    </label>
+                    <label abbreviation="PIR" color="#808080" id="1056" name="Piriform cortex">
+                        <label abbreviation="PIR1" color="#00ccff" id="181" name="Piriform cortex, layer 1"/>
+                        <label abbreviation="PIR2" color="#0000fe" id="182" name="Piriform cortex, layer 2"/>
+                        <label abbreviation="PIR3" color="#a578dd" id="183" name="Piriform cortex, layer 3"/>
+                    </label>
+                    <label abbreviation="CgR" color="#808080" id="1057" name="Cingulate region">
+                        <label abbreviation="Cg" color="#808080" id="1018" name="Cingulate cortex">
+                            <label abbreviation="Cg1" color="#008080" id="411" name="Cingulate area 1"/>
+                            <label abbreviation="Cg2" color="#1d68eb" id="10" name="Cingulate area 2" description="Name changed to ensure consistency across hierarchical levels, from 'cingulate cortex, area 2'"/>
+                        </label>
+                        <label abbreviation="RS" color="#808080" id="1058" name="Retrosplenial cortex">
+                            <label abbreviation="RSD" color="#c849a4" id="427" name="Retrosplenial dysgranular area"/>
+                            <label abbreviation="RSG" color="#1964c8" id="430" name="Retrosplenial granular area"/>
+                        </label>
+                    </label>
+					<label abbreviation="INS" color="#808080" id="1059" name="Insular region">
+						<label abbreviation="AI" color="#808080" id="1060" name="Agranular insular cortex">
+							<label abbreviation="AI-v" color="#ffc90e" id="409" name="Agranular insular cortex, ventral area"/>
+							<label abbreviation="AI-d" color="#ff7f27" id="410" name="Agranular insular cortex dorsal area "/>
+							<label abbreviation="AI-p" color="#b5e61d" id="424" name="Agranular insular cortex, posterior area "/>
+						</label>
+						<label abbreviation="DI" color="#fff200" id="414" name="Dysgranular insular cortex"/>
+						<label abbreviation="GI" color="#efe4b0" id="416" name="Granular insular cortex"/>
+					</label>
+					<label abbreviation="Front" color="#808080" id="1061" name="Frontal region">
+						<label abbreviation="FrA" color="#ced307" id="77" name="Frontal association cortex"/>
+						<label abbreviation="Orb" color="#808080" id="1062" name="Orbitofrontal cortex">
+							<label abbreviation="MO" color="#3f48cc" id="403" name="Medial orbital area"/>
+							<label abbreviation="VO" color="#c8bfe7" id="402" name="Ventral orbital area"/>
+							<label abbreviation="VLO" color="#ff0001" id="400" name="Ventrolateral orbital area"/>
+							<label abbreviation="LO" color="#ffaec9" id="401" name="Lateral orbital area"/>
+							<label abbreviation="DLO" color="#b97a57" id="404" name="Dorsolateral orbital area"/>
+						</label>
+						<label abbreviation="MFC" color="#808080" id="1063" name="Mediofrontal cortex">
+							<label abbreviation="PrL" color="#a349a4" id="405" name="Prelimbic area"/>
+							<label abbreviation="IL" color="#22b14c" id="413" name="Infralimbic area"/>
+						</label>
+						<label abbreviation="M" color="#808080" id="1064" name="Motor cortex">
+							<label abbreviation="M1" color="#99d9ea" id="408" name="Primary motor area"/>
+							<label abbreviation="M2" color="#00a2e8" id="406" name="Secondary motor area"/>
+							<label abbreviation="Fr3" color="#880015" id="407" name="Frontal association area 3"/>
+						</label>
+					</label>
+					<label abbreviation="Par" color="#808080" id="1065" name="Parietal region">
+						<label abbreviation="SS" color="#808080" id="1066" name="Somatosensory cortex">
+							<label abbreviation="S1" color="#808080" id="1067" name="Primary somatosensory area">
+								<label abbreviation="S1-f" color="#ff80c0" id="420" name="Primary somatosensory area, face representation"/>
+								<label abbreviation="S1-bf" color="#78b14c" id="425" name="Primary somatosensory area, barrel field"/>
+								<label abbreviation="S1-dz" color="#ed1c24" id="418" name="Primary somatosensory area, dysgranular zone"/>
+								<label abbreviation="S1-fl" color="#b90e83" id="417" name="Primary somatosensory area, forelimb representation"/>
+								<label abbreviation="S1-hl" color="#886415" id="423" name="Primary somatosensory area, hindlimb representation"/>
+								<label abbreviation="S1-tr" color="#e196c9" id="429" name="Primary somatosensory area, trunk representation"/>
+							</label>
+							<label abbreviation="S2" color="#c864fa" id="422" name="Secondary somatosensory area"/>
+						</label>
+						<label abbreviation="PPC" color="#808080" id="1068" name="Posterior parietal cortex">
+							<label abbreviation="mPPC" color="#6c006c" id="433" name="Parietal association cortex, medial area"/>
+							<label abbreviation="lPPC" color="#fff01d" id="432" name="Parietal association cortex, lateral area"/>
+							<label abbreviation="PtP" color="#800040" id="436" name="Parietal association cortex, posterior area "/>
+						</label>
+					</label>
+					<label abbreviation="Oc" color="#808080" id="1069" name="Occipital region">
+						<label abbreviation="Vis" color="#808080" id="1070" name="Visual cortex">
+							<label abbreviation="V1" color="#543423" id="442" name="Primary visual area"/>
+							<label abbreviation="V2" color="#808080" id="1071" name="Secondary visual area">
+								<label abbreviation="V2M" color="#800064" id="448" name="Secondary visual area, medial part"/>
+								<label abbreviation="V2L" color="#ff6464" id="443" name="Secondary visual area, lateral part"/>
+							</label>
+						</label>
+					</label>
+					<label abbreviation="Te" color="#808080" id="1072" name="Temporal region">
+						<label abbreviation="TeA" color="#008000" id="444" name="Temporal association cortex"/>
+						<label abbreviation="Au" color="#808080" id="1019" name="Auditory cortex">
+							<label abbreviation="Au1" color="#ffd700" id="151" name="Primary auditory area" description="Name changed to ensure consistency across hierarchical levels, from 'primary auditory cortex'"/>
+							<label abbreviation="Au2" color="#808080" id="1073" name="Secondary auditory area">
+								<label abbreviation="Au2-d" color="#f0ffff" id="152" name="Secondary auditory area, dorsal part" description="Name changed to ensure consistency across hierarchical levels, from 'secondary auditory cortex, dorsal area'"/>
+								<label abbreviation="Au2-v" color="#d8bfd8" id="153" name="Secondary auditory area, ventral part" description="Name changed to ensure consistency across hierarchical levels, from 'secondary auditory cortex, ventral area'"/>
+							</label>
+						</label>
+					</label>
+				</label>
+			</label>
+			<label abbreviation="N-LamP" color="#808080" id="1074" name="Non-laminated pallium">
+				<label abbreviation="CLA" color="#99d9c8" id="412" name="Claustrum"/>
+				<label abbreviation="Endo" color="#010a64" id="500" name="Endopiriform nucleus"/>
+				<label abbreviation="Am-u" color="#0214c8" id="501" name="Amygdaloid area, unspecified"/>
+			</label>
+			<label abbreviation="SubPAL" color="#808080" id="1075" name=" Subpallium">
+				<label abbreviation="Str" color="#808080" id="1076" name="Striatum">
+					<label abbreviation="CPu" color="#814f9b" id="197" name="Caudate putamen"/>
+					<label abbreviation="NAc" color="#808080" id="1077" name="Nucleus accumbens">
+						<label abbreviation="NAc-c" color="#e6d8fa" id="184" name="Nucleus accumbens, core"/>
+						<label abbreviation="NAc-sh" color="#582f6c" id="192" name="Nucleus accumbens, shell"/>
+					</label>
+					<label abbreviation="VSR-u" color="#dc143c" id="199" name="Ventral striatal region, unspecified"/>
+				</label>
+				<label abbreviation="PAL" color="#808080" id="1028" name="Pallidum">
+					<label abbreviation="GPe" color="#808080" id="1078" name="Globus pallidus external">
+						<label abbreviation="GPe-m" color="#ff55ff" id="195" name="Globus pallidus external, medial part"/>
+						<label abbreviation="GPe-l" color="#c819c8" id="198" name="Globus pallidus external, lateral part"/>
+					</label>
+					<label abbreviation="EP" color="#1ae7ff" id="32" name="Entopeduncular nucleus"/>
+					<label abbreviation="VP" color="#00a2ff" id="193" name="Ventral pallidum"/>
+				</label>
+				<label abbreviation="BRF" color="#808080" id="1079" name="Basal forebrain region ">
+					<label abbreviation="BFR-u" color="#e1f00d" id="82" name="Basal forebrain region, unspecified" description="Name changed to reflect the possibility for subdivision, from 'basal forebrain region'"/>
+					<label abbreviation="BNST" color="#0008b6" id="93" name="Bed nucleus of the stria terminalis"/>
+					<label abbreviation="Sep" color="#ff0800" id="40" name="Septal region"/>
+					<label abbreviation="STh" color="#0000ff" id="3" name="Subthalamic nucleus"/>
+				</label>
+			</label>
+		</label>
+		<label abbreviation="Dien" color="#808080" id="1080" name="Diencephalon">
+			<label abbreviation="Thal-Pre" color="#808080" id="1081" name="Prethalamus">
+				<label abbreviation="RT" color="#808080" id="1033" name="Reticular (pre)thalamic nucleus" description="Name changed based on expert anatomist opinion, from 'reticular nucleus of the thalamus'">
+					<label abbreviation="RT-u" color="#00d9ff" id="200" name="Reticular (pre)thalamic nucleus, unspecified"/>
+					<label abbreviation="RT-a" color="#6e00ff" id="164" name="Reticular (pre)thalamic nucleus, auditory segment" description="Name changed based on expert anatomist opinion and to ensure consistency with superstructure, from 'reticular thalamic nucleus, auditory segment'"/>
+				</label>
+				<label abbreviation="ZI" color="#808080" id="1082" name="Zona incerta">
+					<label abbreviation="ZI-d" color="#d8bfd9" id="235" name="Zona incerta, dorsal part"/>
+					<label abbreviation="ZI-v" color="#4bc88a" id="236" name="Zona incerta, ventral part"/>
+					<label abbreviation="ZI-r" color="#1e90ff" id="257" name="Zona incerta, rostral part"/>
+					<label abbreviation="ZI-c" color="#ffe4c4" id="287" name="Zona incerta, caudal part"/>
+					<label abbreviation="ZI-A13" color="#c2474f" id="238" name="Zona incerta, A13 dopamine cells"/>
+					<label abbreviation="ZI-A11" color="#ffb6c1" id="284" name="Zona incerta, A11 dopamine cells"/>
+					<label abbreviation="FoF" color="#fffafa" id="280" name="Fields of Forel"/>
+				</label>
+				<label abbreviation="PrG" color="#ff1900" id="204" name="Pregeniculate nucleus"/>
+				<label abbreviation="SubG" color="#9370db" id="281" name="Subgeniculate nucleus"/>
+				<label abbreviation="IGL" color="#000080" id="272" name="Intergeniculate leaflet"/>
+			</label>
+			<label abbreviation="Thal-EPI" color="#808080" id="1083" name="Epithalamus">
+				<label abbreviation="LHb" color="#d96c00" id="206" name="Lateral habenular nucleus"/>
+				<label abbreviation="MHb" color="#cd0018" id="207" name="Medial habenular nucleus"/>
+				<label abbreviation="SMn" color="#de07ed" id="81" name="Nucleus of the stria medullaris"/>
+				<label abbreviation="PG" color="#daaa3e" id="43" name="Pineal gland"/>
+			</label>
+			<label abbreviation="Thal-D" color="#808080" id="1084" name="Dorsal thalamus">
+				<label abbreviation="ANT" color="#808080" id="1085" name="Anterior nuclei of the dorsal thalamus">
+					<label abbreviation="AD" color="#830a79" id="213" name="Anterodorsal thalamic nucleus"/>
+					<label abbreviation="AV" color="#808080" id="1086" name="Anteroventral thalamic nucleus">
+						<label abbreviation="AV-dm" color="#ef79da" id="214" name="Anteroventral thalamic nucleus, dorsomedial part"/>
+						<label abbreviation="AV-vl" color="#65238e" id="215" name="Anteroventral thalamic nucleus, ventrolateral part"/>
+					</label>
+					<label abbreviation="AM" color="#0055ff" id="254" name="Anteromedial thalamic nucleus"/>
+					<label abbreviation="IAM" color="#f875de" id="255" name="Interanteromedial thalamic nucleus"/>
+				<label abbreviation="DC-MID" color="#808080" id="1087" name="Dorsal-caudal midline group of the dorsal thalamus"/>
+					<label abbreviation="PV" color="#9c3333" id="242" name="Paraventricular thalamic nuclei (anterior and posterior)"/>
+					<label abbreviation="IMD" color="#a0522d" id="260" name="Intermediodorsal thalamic nucleus"/>
+					<label abbreviation="PT" color="#cd0006" id="211" name="Parataenial thalamic nucleus"/>
+					<label abbreviation="SPF" color="#e9967a" id="278" name="Subparafascicular nucleus"/>
+					<label abbreviation="PIL" color="#e470d6" id="208" name="Posterior intralaminar nucleus"/>
+				</label>
+				<label abbreviation="V-MID" color="#808080" id="1088" name="Ventral midline group of the dorsal thalamus">
+					<label abbreviation="Rh" color="#00ff11" id="216" name="Rhomboid thalamic nucleus"/>
+					<label abbreviation="Re" color="#ffaa00" id="219" name="Reuniens thalamic nucleus"/>
+					<label abbreviation="RRe" color="#0000cd" id="268" name="Retroreuniens thalamic nucleus"/>
+					<label abbreviation="Xi" color="#23ffec" id="218" name="Xiphoid thalamic nucleus"/>
+				</label>
+				<label abbreviation="MD" color="#808080" id="1089" name="Mediodorsal nucleus of the dorsal thalamus">
+					<label abbreviation="MD-l" color="#ff557f" id="232" name="Mediodorsal thalamic nucleus, lateral part"/>
+					<label abbreviation="MD-c" color="#55aa00" id="233" name="Mediodorsal thalamic nucleus, central part"/>
+					<label abbreviation="MD-m" color="#aaffff" id="240" name="Mediodorsal thalamic nucleus, medial part"/>
+				</label>
+				<label abbreviation="VENT" color="#808080" id="1090" name="Ventral nuclei of the dorsal thalamus">
+					<label abbreviation="VA" color="#ff8800" id="293" name="Ventral anterior thalamic nucleus"/>
+					<label abbreviation="VM" color="#00b97e" id="221" name="Ventromedial thalamic nucleus"/>
+					<label abbreviation="VL" color="#aaaaff" id="231" name="Ventrolateral thalamic nucleus"/>
+					<label abbreviation="Ang" color="#8b5d8b" id="223" name="Angular thalamic nucleus"/>
+					<label abbreviation="VPN" color="#808080" id="1091" name="Ventral posterior thalamic nucleus">
+						<label abbreviation="VPM" color="#ff00fe" id="227" name="Ventral posteromedial thalamic nucleus"/>
+						<label abbreviation="VPL" color="#ab563e" id="294" name="Ventral posterolateral thalamic nucleus"/>
+						<label abbreviation="VP-pc" color="#00ff08" id="266" name="Ventral posterior nucleus of the thalamus, parvicellular part"/>
+					</label>
+					<label abbreviation="SMT" color="#8200d9" id="222" name="Submedius thalamic nucleus"/>
+				</label>
+				<label abbreviation="ILM" color="#808080" id="1092" name="Intralaminar nuclei of the dorsal thalamus">
+					<label abbreviation="PCN" color="#f0f8ff" id="246" name="Paracentral thalamic nucleus"/>
+					<label abbreviation="CM" color="#e0b640" id="247" name="Central medial thalamic nucleus"/>
+					<label abbreviation="CL" color="#9932cc" id="248" name="Central lateral thalamic nucleus"/>
+					<label abbreviation="PF" color="#ffefd5" id="267" name="Parafascicular thalamic nucleus"/>
+					<label abbreviation="Eth" color="#833280" id="282" name="Ethmoid-Limitans nucleus"/>
+				</label>
+				<label abbreviation="PoC" color="#808080" id="1093" name="Posterior complex of the dorsal thalamus">
+					<label abbreviation="Po" color="#ffff02" id="230" name="Posterior thalamic nucleus"/>
+					<label abbreviation="Po-t" color="#ffffc8" id="210" name="Posterior thalamic nuclear group, triangular part"/>
+				</label>
+				<label abbreviation="LP" color="#808080" id="1094" name="Lateral posterior (pulvinar) complex of the dorsal thalamus">
+					<label abbreviation="LP-mr" color="#3cb371" id="285" name="Lateral posterior thalamic nucleus, mediorostral part"/>
+					<label abbreviation="LP-mc" color="#ffebcd" id="286" name="Lateral posterior thalamic nucleus, mediocaudal part"/>
+					<label abbreviation="LP-l" color="#c7573d" id="283" name="Lateral posterior thalamic nucleus, lateral part"/>
+				</label>
+				<label abbreviation="LD" color="#808080" id="1095" name="Laterodorsal thalamic nuclei of the dorsal thalamus">
+					<label abbreviation="LD-dm" color="#ff7b00" id="228" name="Laterodorsal thalamic nucleus, dorsomedial part"/>
+					<label abbreviation="LD-vl" color="#2b991f" id="229" name="Laterodorsal thalamic nucleus, ventrolateral part"/>
+					<label abbreviation="DLG" color="#ffe200" id="205" name="Dorsal lateral geniculate nucleus"/>
+				</label>
+				<label abbreviation="MG" color="#808080" id="1032" name="Medial geniculate complex of the dorsal thalamus">
+					<label abbreviation="MG-v" color="#833a1f" id="298" name="Medial geniculate body, ventral division"/>
+					<label abbreviation="MG-d" color="#efa300" id="295" name="Medial geniculate body, dorsal division"/>
+					<label abbreviation="MG-mz" color="#ff2ff2" id="150" name="Medial geniculate body, marginal zone"/>
+					<label abbreviation="MG-m" color="#0af4d9" id="297" name="Medial geniculate body, medial division"/>
+					<label abbreviation="MG-sg" color="#0af496" id="299" name="Medial geniculate body, suprageniculate nucleus"/>
+				</label>
+			</label>
+			<label abbreviation="HY" color="#808080" id="1034" name="Hypothalamus">
+				<label abbreviation="HTh-u" color="#e278a1" id="48" name="Hypothalamic region, unspecified" description="Name changed to reflect the possibility for subdivision, from 'hypothalamic region'"/>
+			</label>
+			<label abbreviation="PreT" color="#808080" id="1096" name="Pretectum">
+				<label abbreviation="PRT" color="#ff571e" id="94" name="Pretectal region"/>
+				<label abbreviation="Sag" color="#63cd00" id="163" name="Nucleus sagulum"/>
+			</label>
+		</label>	
+		<label abbreviation="Mes" color="#808080" id="1097" name="Mesencephalon">
+			<label abbreviation="MB" color="#808080" id="1035" name="Midbrain">
+				<label abbreviation="Tc" color="#808080" id="1036" name="Tectum">
+					<label abbreviation="IC" color="#808080" id="1037" name="Inferior colliculus">
+						<label abbreviation="DCIC" color="#ceff8e" id="142" name="Inferior colliculus, dorsal cortex"/>
+						<label abbreviation="CNIC" color="#00eefe" id="143" name="Inferior colliculus, central nucleus"/>
+						<label abbreviation="ECIC" color="#3088cb" id="145" name="Inferior colliculus, external cortex"/>
+					</label>
+					<label abbreviation="Su" color="#808080" id="1038" name="Superior colliculus">
+						<label abbreviation="SuG" color="#5600dd" id="50" name="Superficial gray layer of the superior colliculus"/>
+						<label abbreviation="SuD" color="#e1970f" id="55" name="Deeper layers of the superior colliculus"/>
+					</label>
+				</label>
+				<label abbreviation="Tg" color="#808080" id="1039" name="Tegmentum">
+					<label abbreviation="SN" color="#808080" id="1098" name="Substantia nigra">
+						<label abbreviation="SN-r" color="#63c512" id="187" name="Substantia nigra, reticular part"/>
+						<label abbreviation="SN-c" color="#ffff7f" id="188" name="Substantia nigra, compact part"/>
+						<label abbreviation="SN-l" color="#009f9f" id="189" name="Substantia nigra, lateral part"/>
+					</label>
+					<label abbreviation="VTA" color="#7fffd4" id="196" name="Ventral tegmental area"/>
+					<label abbreviation="PP" color="#b7c788" id="201" name="Peripeduncular nucleus"/>
+					<label abbreviation="IP" color="#3fc0ff" id="71" name="Interpeduncular nucleus"/>
+					<label abbreviation="PAG" color="#07ff59" id="51" name="Periaqueductal gray"/>
+				</label>
+			</label>
+			<label abbreviation="BS-u" color="#9953ff" id="47" name="Brainstem, unspecified" description="Name changed to reflect the possibility for subdivision, from 'brainstem'"/>
+		</label>
+		<label abbreviation="Rho" color="#808080" id="1099" name="Rhombencephalon">
+			<label abbreviation="Met" color="#808080" id="1100" name="Metencephalon">
+				<label abbreviation="Pn" color="#00d70b" id="58" name="Pontine nuclei" description="Abbreviation changed from Osen et al. 2019 (PN)"/>
+				<label abbreviation="Cb" color="#808080" id="1047" name="Cerebellum">
+					<label abbreviation="Cb-m" color="#ffff01" id="4" name="Molecular cell layer of the cerebellum"/>
+					<label abbreviation="Cb-u" color="#00ffff" id="5" name="Cerebellum, unspecified" description="Name changed to reflect the possibility for subdivision, from 'deeper cerebellum'"/>
+				</label>
+			</label>
+			<label abbreviation="Myel" color="#808080" id="1101" name="Myelencephalon">
+				<label abbreviation="VCN" color="#808080" id="1043" name="Cochlear nucleus, ventral part">
+					<label abbreviation="AVCN" color="#2298ff" id="158" name="Ventral cochlear nucleus, anterior part"/>
+					<label abbreviation="PVCN" color="#00e6cf" id="159" name="Ventral cochlear nucleus, posterior part"/>
+					<label abbreviation="Cap" color="#00ff6a" id="160" name="Ventral cochlear nucleus, cap area"/>
+					<label abbreviation="GCL" color="#000cff" id="123" name="Ventral cochlear nucleus, granule cell layer"/>
+				</label>
+				<label abbreviation="DCN" color="#808080" id="1044" name="Cochlear nucleus, dorsal part">
+					<label abbreviation="DCNM" color="#5c9cd3" id="126" name="Dorsal cochlear nucleus, molecular layer"/>
+					<label abbreviation="DCNFG" color="#00509c" id="127" name="Dorsal cochlear nucleus, fusiform and granule layer"/>
+					<label abbreviation="DCND" color="#c5eeff" id="128" name="Dorsal cochlear nucleus, deep core"/>
+				</label>
+				<label abbreviation="Sp5n" color="#5bf1ff" id="75" name="Spinal trigeminal nucleus"/>
+				<label abbreviation="PVG" color="#eb57ff" id="56" name="Periventricular gray"/>
+				<label abbreviation="SO" color="#808080" id="1045" name="Superior olivary complex">
+					<label abbreviation="NTB" color="#00ff51" id="131" name="Nucleus of the trapezoid body"/>
+					<label abbreviation="SPN" color="#00eeff" id="132" name="Superior paraolivary nucleus"/>
+					<label abbreviation="MSO" color="#dbef3d" id="133" name="Medial superior olive"/>
+					<label abbreviation="LSO" color="#234cbe" id="134" name="Lateral superior olive"/>
+					<label abbreviation="SPR" color="#019915" id="135" name="Superior periolivary region" description="Abbreviated as POR in Osen et al. 2019"/>
+					<label abbreviation="VPO" color="#00aeff" id="136" name="Ventral periolivary nuclei"/>
+				</label>
+				<label abbreviation="NLL" color="#808080" id="1046" name="Nuclei of the lateral lemniscus">
+					<label abbreviation="VLL" color="#ff0073" id="137" name="Lateral lemniscus, ventral nucleus"/>
+					<label abbreviation="ILL" color="#ab105b" id="138" name="Lateral lemniscus, intermediate nucleus"/>
+					<label abbreviation="DLL" color="#6c125b" id="139" name="Lateral lemniscus, dorsal nucleus"/>
+				</label>
+				<label abbreviation="IO" color="#00f60e" id="74" name="Inferior olive"/>
+			</label>
+		</label>
+	</label>
+	<label abbreviation="V" color="#727eba" id="1048" name="Ventricular system">
+		<label abbreviation="V-u" color="#022cff" id="33" name="ventricular system, unspecified" description="Name changed to reflect the possibility for subdivision, from 'ventricular system'"/>
+		<label abbreviation="4V" color="#341d90" id="125" name="4th ventricle"/>
+		<label abbreviation="CC" color="#27f4fd" id="70" name="central canal"/>
+	</label>
+</label>
+<label abbreviation="SpC" color="#86ff5a" id="45" name="spinal cord"/>
+<label abbreviation="IE" color="#104f18" id="1049" name="Inner ear">
+	<label abbreviation="VeA" color="#009037" id="119" name="vestibular apparatus"/>
+	<label abbreviation="Co" color="#00ff1c" id="120" name="cochlea"/>
+	<label abbreviation="8cn" color="#fd9400" id="121" name="cochlear nerve" description="Abbreviation changed from Osen et al. 2019 (cn)"/>
+	<label abbreviation="8vn" color="#fd3200" id="122" name="vestibular nerve" description="Abbreviation changed from Osen et al. 2019 (vn)"/>
+	<label abbreviation="SpG" color="#b9ffe9" id="162" name="spiral ganglion" description="Abbreviation changed from Osen et al. 2019 (SG)"/>
+</label>	
+</structure>
+</milf>

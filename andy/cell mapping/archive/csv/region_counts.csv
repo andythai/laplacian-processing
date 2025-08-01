@@ -1,0 +1,132 @@
+level_0,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,level_9,level_10,region,count,region name
+root,,,,,,,,,,,987,6825,root
+root,Basic cell groups and regions,Brain stem,Hindbrain,Medulla,"Medulla, sensory related",Nucleus of the solitary tract,,,,,641,1,Nucleus of the solitary tract
+root,Basic cell groups and regions,Brain stem,Hindbrain,Pons,"Pons, behavioral state related",Superior central nucleus raphe,,,,,669,1,Superior central nucleus raphe
+root,Basic cell groups and regions,Brain stem,Hindbrain,Pons,"Pons, motor related",Tegmental reticular nucleus,,,,,564,1,Tegmental reticular nucleus
+root,Basic cell groups and regions,Brain stem,Interbrain,Hypothalamus,,,,,,,1086,3,Hypothalamus
+root,Basic cell groups and regions,Brain stem,Interbrain,Hypothalamus,Hypothalamic lateral zone,Tuberal nucleus,,,,,604,1,Tuberal nucleus
+root,Basic cell groups and regions,Brain stem,Interbrain,Hypothalamus,Hypothalamic medial zone,Mammillary body,Medial mammillary nucleus,"Medial mammillary nucleus, median part",,,722,1,"Medial mammillary nucleus, median part"
+root,Basic cell groups and regions,Brain stem,Interbrain,Thalamus,"Thalamus, polymodal association cortex related",Midline group of the dorsal thalamus,Paraventricular nucleus of the thalamus,,,,144,1,Paraventricular nucleus of the thalamus
+root,Basic cell groups and regions,Cerebellum,Cerebellar cortex,Hemispheric regions,Ansiform lobule,Crus 2,,,,,1053,1,Crus 2
+root,Basic cell groups and regions,Cerebellum,Cerebellar cortex,Hemispheric regions,Paraflocculus,,,,,,1030,1,Paraflocculus
+root,Basic cell groups and regions,Cerebellum,Cerebellar cortex,Vermal regions,Central lobule,Lobule III,,,,,974,3,Lobule III
+root,Basic cell groups and regions,Cerebellum,Cerebellar cortex,Vermal regions,Culmen,Lobules IV-V,,,,,1080,4,Lobules IV-V
+root,Basic cell groups and regions,Cerebellum,Cerebellar cortex,Vermal regions,Declive (VI),,,,,,926,1,Declive (VI)
+root,Basic cell groups and regions,Cerebellum,Cerebellar cortex,Vermal regions,Nodulus (X),,,,,,958,2,Nodulus (X)
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,,,,,,1078,2734,Hippocampal formation
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Hippocampal region,Ammon's horn,Field CA1,,,372,1810,Field CA1
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Hippocampal region,Ammon's horn,Field CA2,,,413,225,Field CA2
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Hippocampal region,Ammon's horn,Field CA3,,,453,476,Field CA3
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Hippocampal region,Dentate gyrus,"Dentate gyrus, granule cell layer",,,622,15,"Dentate gyrus, granule cell layer"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Hippocampal region,Dentate gyrus,"Dentate gyrus, molecular layer",,,1159,77,"Dentate gyrus, molecular layer"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Hippocampal region,Dentate gyrus,"Dentate gyrus, polymorph layer",,,1160,3,"Dentate gyrus, polymorph layer"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Hippocampal region,Induseum griseum,,,,17,15,Induseum griseum
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Area prostriata,,,,1279,1,Area prostriata
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Entorhinal area,"Entorhinal area, lateral part","Entorhinal area, lateral part, layer 1",,1109,2,"Entorhinal area, lateral part, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Entorhinal area,"Entorhinal area, lateral part","Entorhinal area, lateral part, layer 2",,18,3,"Entorhinal area, lateral part, layer 2"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Entorhinal area,"Entorhinal area, lateral part","Entorhinal area, lateral part, layer 5",,134,2,"Entorhinal area, lateral part, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Entorhinal area,"Entorhinal area, lateral part","Entorhinal area, lateral part, layer 6a",,25,1,"Entorhinal area, lateral part, layer 6a"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Entorhinal area,"Entorhinal area, medial part, dorsal zone","Entorhinal area, medial part, dorsal zone, layer 1",,516,5,"Entorhinal area, medial part, dorsal zone, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Entorhinal area,"Entorhinal area, medial part, dorsal zone","Entorhinal area, medial part, dorsal zone, layer 2",,533,10,"Entorhinal area, medial part, dorsal zone, layer 2"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Entorhinal area,"Entorhinal area, medial part, dorsal zone","Entorhinal area, medial part, dorsal zone, layer 3",,654,5,"Entorhinal area, medial part, dorsal zone, layer 3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Entorhinal area,"Entorhinal area, medial part, dorsal zone","Entorhinal area, medial part, dorsal zone, layer 5",,717,2,"Entorhinal area, medial part, dorsal zone, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Parasubiculum,,,,833,4,Parasubiculum
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Postsubiculum,,,,1026,13,Postsubiculum
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Presubiculum,,,,1073,1,Presubiculum
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Prosubiculum,,,,1270,41,Prosubiculum
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Hippocampal formation,Retrohippocampal region,Subiculum,,,,492,21,Subiculum
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Agranular insular area,"Agranular insular area, dorsal part","Agranular insular area, dorsal part, layer 1",,,986,12,"Agranular insular area, dorsal part, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Agranular insular area,"Agranular insular area, ventral part","Agranular insular area, ventral part, layer 1",,,694,46,"Agranular insular area, ventral part, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Anterior cingulate area,"Anterior cingulate area, dorsal part","Anterior cingulate area, dorsal part, layer 1",,,925,2,"Anterior cingulate area, dorsal part, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Anterior cingulate area,"Anterior cingulate area, ventral part","Anterior cingulate area, ventral part, layer 1",,,578,6,"Anterior cingulate area, ventral part, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Dorsal auditory area,"Dorsal auditory area, layer 2/3",,,590,1,"Dorsal auditory area, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Dorsal auditory area,"Dorsal auditory area, layer 4",,,668,5,"Dorsal auditory area, layer 4"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Dorsal auditory area,"Dorsal auditory area, layer 5",,,245,5,"Dorsal auditory area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Dorsal auditory area,"Dorsal auditory area, layer 6a",,,151,5,"Dorsal auditory area, layer 6a"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Posterior auditory area,"Posterior auditory area, layer 4",,,749,1,"Posterior auditory area, layer 4"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Posterior auditory area,"Posterior auditory area, layer 5",,,781,2,"Posterior auditory area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Primary auditory area,"Primary auditory area, layer 1",,,725,1,"Primary auditory area, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Primary auditory area,"Primary auditory area, layer 2/3",,,244,1,"Primary auditory area, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Primary auditory area,"Primary auditory area, layer 4",,,806,1,"Primary auditory area, layer 4"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Primary auditory area,"Primary auditory area, layer 5",,,837,11,"Primary auditory area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Primary auditory area,"Primary auditory area, layer 6a",,,944,2,"Primary auditory area, layer 6a"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Ventral auditory area,"Ventral auditory area, layer 5",,,1012,4,"Ventral auditory area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Auditory areas,Ventral auditory area,"Ventral auditory area, layer 6a",,,510,1,"Ventral auditory area, layer 6a"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Ectorhinal area,Ectorhinal area/Layer 1,,,,826,2,Ectorhinal area/Layer 1
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Ectorhinal area,Ectorhinal area/Layer 5,,,,978,1,Ectorhinal area/Layer 5
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,"Frontal pole, cerebral cortex","Frontal pole, layer 1",,,,63,4,"Frontal pole, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Infralimbic area,"Infralimbic area, layer 1",,,,697,69,"Infralimbic area, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Infralimbic area,"Infralimbic area, layer 2/3",,,,546,3,"Infralimbic area, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Orbital area,"Orbital area, lateral part","Orbital area, lateral part, layer 1",,,438,863,"Orbital area, lateral part, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Orbital area,"Orbital area, lateral part","Orbital area, lateral part, layer 2/3",,,402,1,"Orbital area, lateral part, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Orbital area,"Orbital area, medial part","Orbital area, medial part, layer 1",,,474,385,"Orbital area, medial part, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Orbital area,"Orbital area, medial part","Orbital area, medial part, layer 2/3",,,572,33,"Orbital area, medial part, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Orbital area,"Orbital area, medial part","Orbital area, medial part, layer 5",,,610,1,"Orbital area, medial part, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Orbital area,"Orbital area, ventrolateral part","Orbital area, ventrolateral part, layer 1",,,959,807,"Orbital area, ventrolateral part, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Orbital area,"Orbital area, ventrolateral part","Orbital area, ventrolateral part, layer 2/3",,,278,76,"Orbital area, ventrolateral part, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Orbital area,"Orbital area, ventrolateral part","Orbital area, ventrolateral part, layer 5",,,1112,16,"Orbital area, ventrolateral part, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Perirhinal area,"Perirhinal area, layer 1",,,,530,2,"Perirhinal area, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Perirhinal area,"Perirhinal area, layer 2/3",,,,878,4,"Perirhinal area, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Posterior parietal association areas,Anterior area,"Anterior area, layer 4",,,1211,1,"Anterior area, layer 4"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Posterior parietal association areas,Anterior area,"Anterior area, layer 5",,,1212,1,"Anterior area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Posterior parietal association areas,Rostrolateral visual area,"Rostrolateral area, layer 4",,,1224,2,"Rostrolateral area, layer 4"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Posterior parietal association areas,Rostrolateral visual area,"Rostrolateral area, layer 5",,,1225,1,"Rostrolateral area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Posterior parietal association areas,Rostrolateral visual area,"Rostrolateral area, layer 6a",,,1226,1,"Rostrolateral area, layer 6a"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Prelimbic area,"Prelimbic area, layer 1",,,,166,59,"Prelimbic area, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Prelimbic area,"Prelimbic area, layer 2/3",,,,294,3,"Prelimbic area, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Retrosplenial area,"Retrosplenial area, dorsal part","Retrosplenial area, dorsal part, layer 2/3",,,424,1,"Retrosplenial area, dorsal part, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Retrosplenial area,"Retrosplenial area, dorsal part","Retrosplenial area, dorsal part, layer 5",,,600,1,"Retrosplenial area, dorsal part, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Retrosplenial area,"Retrosplenial area, lateral agranular part","Retrosplenial area, lateral agranular part, layer 5",,,764,4,"Retrosplenial area, lateral agranular part, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Retrosplenial area,"Retrosplenial area, ventral part","Retrosplenial area, ventral part, layer 5",,,677,1,"Retrosplenial area, ventral part, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatomotor areas,Secondary motor area,"Secondary motor area, layer 1",,,646,2,"Secondary motor area, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatomotor areas,Secondary motor area,"Secondary motor area, layer 2/3",,,952,1,"Secondary motor area, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Primary somatosensory area,"Primary somatosensory area, barrel field","Primary somatosensory area, barrel field, layer 1",,971,1,"Primary somatosensory area, barrel field, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Primary somatosensory area,"Primary somatosensory area, barrel field","Primary somatosensory area, barrel field, layer 2/3",,194,7,"Primary somatosensory area, barrel field, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Primary somatosensory area,"Primary somatosensory area, barrel field","Primary somatosensory area, barrel field, layer 5",,1059,1,"Primary somatosensory area, barrel field, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Primary somatosensory area,"Primary somatosensory area, barrel field","Primary somatosensory area, barrel field, layer 6a",,1027,4,"Primary somatosensory area, barrel field, layer 6a"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Primary somatosensory area,"Primary somatosensory area, mouth","Primary somatosensory area, mouth, layer 2/3",,647,1,"Primary somatosensory area, mouth, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Primary somatosensory area,"Primary somatosensory area, mouth","Primary somatosensory area, mouth, layer 6a",,1091,1,"Primary somatosensory area, mouth, layer 6a"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Primary somatosensory area,"Primary somatosensory area, nose","Primary somatosensory area, nose, layer 2/3",,828,1,"Primary somatosensory area, nose, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Primary somatosensory area,"Primary somatosensory area, unassigned","Primary somatosensory area, unassigned, layer 5",,1204,1,"Primary somatosensory area, unassigned, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Primary somatosensory area,"Primary somatosensory area, unassigned","Primary somatosensory area, unassigned, layer 6a",,1205,1,"Primary somatosensory area, unassigned, layer 6a"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Supplemental somatosensory area,"Supplemental somatosensory area, layer 2/3",,,796,2,"Supplemental somatosensory area, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Supplemental somatosensory area,"Supplemental somatosensory area, layer 5",,,1079,6,"Supplemental somatosensory area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Somatosensory areas,Supplemental somatosensory area,"Supplemental somatosensory area, layer 6a",,,852,1,"Supplemental somatosensory area, layer 6a"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Temporal association areas,"Temporal association areas, layer 5",,,,279,1,"Temporal association areas, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visceral area,"Visceral area, layer 4",,,,1000,1,"Visceral area, layer 4"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visceral area,"Visceral area, layer 5",,,,1047,1,"Visceral area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,Anterolateral visual area,"Anterolateral visual area, layer 2/3",,,895,1,"Anterolateral visual area, layer 2/3"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,Anterolateral visual area,"Anterolateral visual area, layer 5",,,226,3,"Anterolateral visual area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,Anteromedial visual area,"Anteromedial visual area, layer 5",,,423,2,"Anteromedial visual area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,Lateral visual area,"Lateral visual area, layer 4",,,563,1,"Lateral visual area, layer 4"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,Lateral visual area,"Lateral visual area, layer 5",,,603,2,"Lateral visual area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,Posterolateral visual area,"Posterolateral visual area, layer 5",,,892,1,"Posterolateral visual area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,Postrhinal area,"Postrhinal area, layer 5",,,1232,1,"Postrhinal area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,Primary visual area,"Primary visual area, layer 1",,,583,1,"Primary visual area, layer 1"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,Primary visual area,"Primary visual area, layer 4",,,711,1,"Primary visual area, layer 4"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,Primary visual area,"Primary visual area, layer 5",,,768,3,"Primary visual area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Isocortex,Visual areas,posteromedial visual area,"posteromedial visual area, layer 5",,,555,1,"posteromedial visual area, layer 5"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Olfactory areas,,,,,,688,1388,Olfactory areas
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Olfactory areas,Anterior olfactory nucleus,,,,,154,120,Anterior olfactory nucleus
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Olfactory areas,Dorsal peduncular area,,,,,804,46,Dorsal peduncular area
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Olfactory areas,Main olfactory bulb,,,,,497,48,Main olfactory bulb
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Olfactory areas,Piriform area,,,,,951,7,Piriform area
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Olfactory areas,Taenia tecta,"Taenia tecta, dorsal part",,,,587,131,"Taenia tecta, dorsal part"
+root,Basic cell groups and regions,Cerebrum,Cerebral cortex,Cortical plate,Olfactory areas,Taenia tecta,"Taenia tecta, ventral part",,,,595,212,"Taenia tecta, ventral part"
+root,Basic cell groups and regions,Cerebrum,Cerebral nuclei,Pallidum,"Pallidum, medial region",Medial septal complex,Diagonal band nucleus,,,,586,31,Diagonal band nucleus
+root,Basic cell groups and regions,Cerebrum,Cerebral nuclei,Pallidum,"Pallidum, medial region",Medial septal complex,Medial septal nucleus,,,,554,3,Medial septal nucleus
+root,Basic cell groups and regions,Cerebrum,Cerebral nuclei,Striatum,,,,,,,467,116,Striatum
+root,Basic cell groups and regions,Cerebrum,Cerebral nuclei,Striatum,Lateral septal complex,Lateral septal nucleus,"Lateral septal nucleus, rostral (rostroventral) part",,,,251,2,"Lateral septal nucleus, rostral (rostroventral) part"
+root,Basic cell groups and regions,Cerebrum,Cerebral nuclei,Striatum,Striatum dorsal region,Caudoputamen,,,,,662,5,Caudoputamen
+root,Basic cell groups and regions,Cerebrum,Cerebral nuclei,Striatum,Striatum ventral region,Nucleus accumbens,,,,,51,3,Nucleus accumbens
+root,Basic cell groups and regions,Cerebrum,Cerebral nuclei,Striatum,Striatum ventral region,Olfactory tubercle,,,,,744,38,Olfactory tubercle
+root,fiber tracts,,,,,,,,,,999,22,fiber tracts
+root,fiber tracts,cerebellum related fiber tracts,arbor vitae,,,,,,,,718,1,arbor vitae
+root,fiber tracts,cranial nerves,olfactory nerve,"lateral olfactory tract, general",dorsal limb,,,,,,528,1,dorsal limb
+root,fiber tracts,cranial nerves,olfactory nerve,"lateral olfactory tract, general","lateral olfactory tract, body",,,,,,655,1,"lateral olfactory tract, body"
+root,fiber tracts,cranial nerves,olfactory nerve,olfactory nerve layer of main olfactory bulb,,,,,,,1005,12,olfactory nerve layer of main olfactory bulb
+root,fiber tracts,lateral forebrain bundle system,corpus callosum,"corpus callosum, anterior forceps",,,,,,,946,3,"corpus callosum, anterior forceps"
+root,fiber tracts,medial forebrain bundle system,cerebrum related,fornix system,alveus,,,,,,456,1,alveus
+root,fiber tracts,medial forebrain bundle system,cerebrum related,fornix system,fimbria,,,,,,593,1,fimbria
+root,ventricular systems,lateral ventricle,,,,,,,,,76,10,lateral ventricle
+root,ventricular systems,lateral ventricle,subependymal zone,,,,,,,,93,4,subependymal zone

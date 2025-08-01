@@ -1,0 +1,3051 @@
+Doing slice: 0
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif
+
+Channel shape: (8070, 7168)
+Channel dtype: uint16
+Channel 1 min: 4
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 max: 65535
+Channel 1 mean: 7515.98976248216
+
+Threshold for ch1: 7500
+Threshold for ch2: 3000
+Threshold for ch3: 200
+
+Slice index: 0
+Thresh3: 200
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.2987677308543397
+IoU score: 0.17561842452258297
+Precision score: 0.5827053683061896
+Recall score: 0.2008826696676627
+SSIM score: 0.673127372822621
+MSE score: 0.17476713937201274
+Hamming distance: 0.17476713937201274
+Rand index: 0.8252328606279873
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 200
+Dice coefficient: 0.22655120973714737
+IoU score: 0.1277461243769937
+Precision score: 0.7496366952539454
+Recall score: 0.13343925543144944
+SSIM score: 0.47060844659879897
+MSE score: 0.3270382652073376
+Hamming distance: 0.3270382652073376
+Rand index: 0.6729617347926624
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 200
+Dice coefficient: 0.5448762882082463
+IoU score: 0.37445358342578156
+Precision score: 0.8000670653588766
+Recall score: 0.41311000527956915
+SSIM score: 0.5214077230552249
+MSE score: 0.24771200170937335
+Hamming distance: 0.24771200170937335
+Rand index: 0.7522879982906266
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif
+
+Channel shape: (8070, 7168)
+Channel dtype: uint16
+Channel 1 min: 4
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 max: 65535
+Channel 1 mean: 7515.98976248216
+
+Threshold for ch1: 7500
+Threshold for ch2: 3000
+Threshold for ch3: 300
+
+Slice index: 0
+Thresh3: 300
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.2987677308543397
+IoU score: 0.17561842452258297
+Precision score: 0.5827053683061896
+Recall score: 0.2008826696676627
+SSIM score: 0.673127372822621
+MSE score: 0.17476713937201274
+Hamming distance: 0.17476713937201274
+Rand index: 0.8252328606279873
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 300
+Dice coefficient: 0.22943747460164168
+IoU score: 0.1295845084883521
+Precision score: 0.749220021033931
+Recall score: 0.13546004866659955
+SSIM score: 0.476945205078854
+MSE score: 0.32154033415759425
+Hamming distance: 0.32154033415759425
+Rand index: 0.6784596658424057
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 300
+Dice coefficient: 0.5483379221868514
+IoU score: 0.37773110599740484
+Precision score: 0.7969380326344327
+Recall score: 0.4179583000561688
+SSIM score: 0.526634956152937
+MSE score: 0.24332066861944593
+Hamming distance: 0.24332066861944593
+Rand index: 0.7566793313805541
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif
+
+Channel shape: (8070, 7168)
+Channel dtype: uint16
+Channel 1 min: 4
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 max: 65535
+Channel 1 mean: 7515.98976248216
+
+Threshold for ch1: 7500
+Threshold for ch2: 3000
+Threshold for ch3: 400
+
+Slice index: 0
+Thresh3: 400
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.2987677308543397
+IoU score: 0.17561842452258297
+Precision score: 0.5827053683061896
+Recall score: 0.2008826696676627
+SSIM score: 0.673127372822621
+MSE score: 0.17476713937201274
+Hamming distance: 0.17476713937201274
+Rand index: 0.8252328606279873
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 400
+Dice coefficient: 0.24217511827467547
+IoU score: 0.1377697635255782
+Precision score: 0.7442364350219552
+Recall score: 0.14461676306476826
+SSIM score: 0.5090225126728932
+MSE score: 0.29759992780801914
+Hamming distance: 0.29759992780801914
+Rand index: 0.7024000721919809
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 400
+Dice coefficient: 0.5630751502413727
+IoU score: 0.39186123779260784
+Precision score: 0.7810221824037847
+Recall score: 0.44022796327094843
+SSIM score: 0.5542277578147581
+MSE score: 0.2246429816117897
+Hamming distance: 0.2246429816117897
+Rand index: 0.7753570183882103
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif
+
+Channel shape: (8070, 7168)
+Channel dtype: uint16
+Channel 1 min: 4
+Channel 1 max: 65535
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 mean: 7515.98976248216
+
+Threshold for ch1: 7500
+Threshold for ch2: 3000
+Threshold for ch3: 500
+
+Slice index: 0
+Thresh3: 500
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.2987677308543397
+IoU score: 0.17561842452258297
+Precision score: 0.5827053683061896
+Recall score: 0.2008826696676627
+SSIM score: 0.673127372822621
+MSE score: 0.17476713937201274
+Hamming distance: 0.17476713937201274
+Rand index: 0.8252328606279873
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 500
+Dice coefficient: 0.2604173526975426
+IoU score: 0.14970105220431323
+Precision score: 0.7296512139154038
+Recall score: 0.15849212027205892
+SSIM score: 0.5553868807158281
+MSE score: 0.26479797309258274
+Hamming distance: 0.26479797309258274
+Rand index: 0.7352020269074172
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 500
+Dice coefficient: 0.5680829406650073
+IoU score: 0.39672894247718155
+Precision score: 0.7348403606605238
+Recall score: 0.4630116466120964
+SSIM score: 0.5847845201208685
+MSE score: 0.20709552437378298
+Hamming distance: 0.20709552437378298
+Rand index: 0.792904475626217
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif
+
+Channel shape: (8070, 7168)
+Channel dtype: uint16
+Channel 1 min: 4
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 max: 65535
+Channel 1 mean: 7515.98976248216
+
+Threshold for ch1: 7500
+Threshold for ch2: 3000
+Threshold for ch3: 600
+
+Slice index: 0
+Thresh3: 600
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.2987677308543397
+IoU score: 0.17561842452258297
+Precision score: 0.5827053683061896
+Recall score: 0.2008826696676627
+SSIM score: 0.673127372822621
+MSE score: 0.17476713937201274
+Hamming distance: 0.17476713937201274
+Rand index: 0.8252328606279873
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 600
+Dice coefficient: 0.2804394488958575
+IoU score: 0.16308785911364693
+Precision score: 0.709256363684082
+Recall score: 0.17477210608480503
+SSIM score: 0.5981704003202324
+MSE score: 0.23254876416179854
+Hamming distance: 0.23254876416179854
+Rand index: 0.7674512358382014
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 600
+Dice coefficient: 0.5599706683297277
+IoU score: 0.38886059888809676
+Precision score: 0.6716910031214773
+Recall score: 0.4801146495159098
+SSIM score: 0.6029962403342632
+MSE score: 0.19564780547442026
+Hamming distance: 0.19564780547442026
+Rand index: 0.8043521945255797
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif
+
+Channel shape: (8070, 7168)
+Channel dtype: uint16
+Channel 1 min: 4
+Channel 1 max: 65535
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 mean: 7515.98976248216
+
+Threshold for ch1: 7500
+Threshold for ch2: 3000
+Threshold for ch3: 750
+
+Slice index: 0
+Thresh3: 750
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.2987677308543397
+IoU score: 0.17561842452258297
+Precision score: 0.5827053683061896
+Recall score: 0.2008826696676627
+SSIM score: 0.673127372822621
+MSE score: 0.17476713937201274
+Hamming distance: 0.17476713937201274
+Rand index: 0.8252328606279873
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 750
+Dice coefficient: 0.3302475487073815
+IoU score: 0.19778234100014308
+Precision score: 0.6702185889192256
+Recall score: 0.21910544288509654
+SSIM score: 0.6752733906257725
+MSE score: 0.17368956687577447
+Hamming distance: 0.17368956687577447
+Rand index: 0.8263104331242255
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 750
+Dice coefficient: 0.55501964626597
+IoU score: 0.38410186327566476
+Precision score: 0.5701507851264145
+Recall score: 0.5406708700715531
+SSIM score: 0.6406339620766565
+MSE score: 0.16943819218556383
+Hamming distance: 0.16943819218556383
+Rand index: 0.8305618078144362
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif
+
+Channel shape: (8070, 7168)
+Channel dtype: uint16
+Channel 1 min: 4
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 max: 65535
+Channel 1 mean: 7515.98976248216
+
+Threshold for ch1: 7500
+Threshold for ch2: 3000
+Threshold for ch3: 850
+
+Slice index: 0
+Thresh3: 850
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.2987677308543397
+IoU score: 0.17561842452258297
+Precision score: 0.5827053683061896
+Recall score: 0.2008826696676627
+SSIM score: 0.673127372822621
+MSE score: 0.17476713937201274
+Hamming distance: 0.17476713937201274
+Rand index: 0.8252328606279873
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 850
+Dice coefficient: 0.3715779705942925
+IoU score: 0.22818284442510262
+Precision score: 0.6341421773608992
+Recall score: 0.26277638645483675
+SSIM score: 0.729350842264343
+MSE score: 0.1370473479819437
+Hamming distance: 0.1370473479819437
+Rand index: 0.8629526520180563
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 850
+Dice coefficient: 0.5417389381923288
+IoU score: 0.3714965395296129
+Precision score: 0.49621752308694667
+Recall score: 0.5964559030106953
+SSIM score: 0.6667277728177384
+MSE score: 0.1555908678527173
+Hamming distance: 0.1555908678527173
+Rand index: 0.8444091321472827
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif
+
+Channel shape: (8070, 7168)
+Channel dtype: uint16
+Channel 1 min: 4
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 max: 65535
+Channel 1 mean: 7515.98976248216
+
+Threshold for ch1: 7500
+Threshold for ch2: 3000
+Threshold for ch3: 1000
+
+Slice index: 0
+Thresh3: 1000
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 3000
+Dice coefficient: 0.2987677308543397
+IoU score: 0.17561842452258297
+Precision score: 0.5827053683061896
+Recall score: 0.2008826696676627
+SSIM score: 0.673127372822621
+MSE score: 0.17476713937201274
+Hamming distance: 0.17476713937201274
+Rand index: 0.8252328606279873
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 1000
+Dice coefficient: 0.42379225853132535
+IoU score: 0.2688682762948781
+Precision score: 0.5706645656184784
+Recall score: 0.3370464074066735
+SSIM score: 0.7894683748633547
+MSE score: 0.09914927213334218
+Hamming distance: 0.09914927213334218
+Rand index: 0.9008507278666578
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 1000
+Dice coefficient: 0.4864524404348464
+IoU score: 0.32139884694115955
+Precision score: 0.3851957184504824
+Recall score: 0.6599283635478037
+SSIM score: 0.6846420074426098
+MSE score: 0.1507338653688706
+Hamming distance: 0.1507338653688706
+Rand index: 0.8492661346311294
+
+
+
+
+Doing slice: 1
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif
+
+Channel shape: (8488, 7708)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 6613.768633406325
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 200
+
+Slice index: 1
+Thresh3: 200
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2578228667873078
+IoU score: 0.14798889382267638
+Precision score: 0.6083042336573455
+Recall score: 0.16357644640691904
+SSIM score: 0.675334450282078
+MSE score: 0.17429340704811383
+Hamming distance: 0.17429340704811383
+Rand index: 0.8257065929518862
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 200
+Dice coefficient: 0.18853651427072615
+IoU score: 0.10407966583705307
+Precision score: 0.7694568572349934
+Recall score: 0.10742977126938082
+SSIM score: 0.4683926261537448
+MSE score: 0.3296338229201872
+Hamming distance: 0.3296338229201872
+Rand index: 0.6703661770798128
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 200
+Dice coefficient: 0.5560386874168971
+IoU score: 0.38507866005232455
+Precision score: 0.8134886322211745
+Recall score: 0.4223689023745745
+SSIM score: 0.5306149396609715
+MSE score: 0.24041726908209984
+Hamming distance: 0.24041726908209984
+Rand index: 0.7595827309179002
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif
+
+Channel shape: (8488, 7708)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 6613.768633406325
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 300
+
+Slice index: 1
+Thresh3: 300
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2578228667873078
+IoU score: 0.14798889382267638
+Precision score: 0.6083042336573455
+Recall score: 0.16357644640691904
+SSIM score: 0.675334450282078
+MSE score: 0.17429340704811383
+Hamming distance: 0.17429340704811383
+Rand index: 0.8257065929518862
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 300
+Dice coefficient: 0.1899542453755395
+IoU score: 0.10494444402315692
+Precision score: 0.7693002257336343
+Recall score: 0.10835446923470266
+SSIM score: 0.4721588889166269
+MSE score: 0.3265354898909147
+Hamming distance: 0.3265354898909147
+Rand index: 0.6734645101090853
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 300
+Dice coefficient: 0.5583980187805132
+IoU score: 0.387345485130473
+Precision score: 0.8122427328455116
+Recall score: 0.4254385830207377
+SSIM score: 0.5339142894209487
+MSE score: 0.2377645115274924
+Hamming distance: 0.2377645115274924
+Rand index: 0.7622354884725075
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif
+
+Channel shape: (8488, 7708)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 6613.768633406325
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 400
+
+Slice index: 1
+Thresh3: 400
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2578228667873078
+IoU score: 0.14798889382267638
+Precision score: 0.6083042336573455
+Recall score: 0.16357644640691904
+SSIM score: 0.675334450282078
+MSE score: 0.17429340704811383
+Hamming distance: 0.17429340704811383
+Rand index: 0.8257065929518862
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 400
+Dice coefficient: 0.1923709855449188
+IoU score: 0.10642171817700659
+Precision score: 0.7683911487845703
+Recall score: 0.10994861561609427
+SSIM score: 0.47729176912072707
+MSE score: 0.32109140496647914
+Hamming distance: 0.32109140496647914
+Rand index: 0.6789085950335209
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 400
+Dice coefficient: 0.5623901459731432
+IoU score: 0.3911980322045266
+Precision score: 0.8096405985800744
+Recall score: 0.43082387149540213
+SSIM score: 0.5383861625872288
+MSE score: 0.23319311380467164
+Hamming distance: 0.23319311380467164
+Rand index: 0.7668068861953283
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif
+
+Channel shape: (8488, 7708)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 6613.768633406325
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 500
+
+Slice index: 1
+Thresh3: 500
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2578228667873078
+IoU score: 0.14798889382267638
+Precision score: 0.6083042336573455
+Recall score: 0.16357644640691904
+SSIM score: 0.675334450282078
+MSE score: 0.17429340704811383
+Hamming distance: 0.17429340704811383
+Rand index: 0.8257065929518862
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 500
+Dice coefficient: 0.20158102574864464
+IoU score: 0.11208791090105055
+Precision score: 0.764957847698899
+Recall score: 0.11608594664953518
+SSIM score: 0.49671312580135774
+MSE score: 0.30157316021593045
+Hamming distance: 0.30157316021593045
+Rand index: 0.6984268397840695
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 500
+Dice coefficient: 0.5773164111042223
+IoU score: 0.40579396262826717
+Precision score: 0.8001535612686668
+Recall score: 0.45156009449660905
+SSIM score: 0.5556238231862332
+MSE score: 0.21684473382123276
+Hamming distance: 0.21684473382123276
+Rand index: 0.7831552661787672
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif
+
+Channel shape: (8488, 7708)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 6613.768633406325
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 600
+
+Slice index: 1
+Thresh3: 600
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2578228667873078
+IoU score: 0.14798889382267638
+Precision score: 0.6083042336573455
+Recall score: 0.16357644640691904
+SSIM score: 0.675334450282078
+MSE score: 0.17429340704811383
+Hamming distance: 0.17429340704811383
+Rand index: 0.8257065929518862
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 600
+Dice coefficient: 0.22668065306958426
+IoU score: 0.1278284441332941
+Precision score: 0.75187850309424
+Recall score: 0.13345819902947975
+SSIM score: 0.5492021116665171
+MSE score: 0.2553089694196318
+Hamming distance: 0.2553089694196318
+Rand index: 0.7446910305803681
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 600
+Dice coefficient: 0.6097010498120713
+IoU score: 0.4385395311775622
+Precision score: 0.7666881226296652
+Recall score: 0.5060767632927562
+SSIM score: 0.5985936925126102
+MSE score: 0.18166582255140137
+Hamming distance: 0.18166582255140137
+Rand index: 0.8183341774485986
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif
+
+Channel shape: (8488, 7708)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 6613.768633406325
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 750
+
+Slice index: 1
+Thresh3: 750
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2578228667873078
+IoU score: 0.14798889382267638
+Precision score: 0.6083042336573455
+Recall score: 0.16357644640691904
+SSIM score: 0.675334450282078
+MSE score: 0.17429340704811383
+Hamming distance: 0.17429340704811383
+Rand index: 0.8257065929518862
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 750
+Dice coefficient: 0.2935777816259306
+IoU score: 0.17204287336674529
+Precision score: 0.6823454799527034
+Recall score: 0.18702176050972594
+SSIM score: 0.6770921253531057
+MSE score: 0.16342536696392893
+Hamming distance: 0.16342536696392893
+Rand index: 0.836574633036071
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 750
+Dice coefficient: 0.643476671679834
+IoU score: 0.4743572471228162
+Precision score: 0.6373949686014527
+Recall score: 0.6496755499051781
+SSIM score: 0.682816449155697
+MSE score: 0.13071873317170013
+Hamming distance: 0.13071873317170013
+Rand index: 0.8692812668282999
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif
+
+Channel shape: (8488, 7708)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 6613.768633406325
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 850
+
+Slice index: 1
+Thresh3: 850
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2578228667873078
+IoU score: 0.14798889382267638
+Precision score: 0.6083042336573455
+Recall score: 0.16357644640691904
+SSIM score: 0.675334450282078
+MSE score: 0.17429340704811383
+Hamming distance: 0.17429340704811383
+Rand index: 0.8257065929518862
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 850
+Dice coefficient: 0.33243811921078553
+IoU score: 0.19935579185430352
+Precision score: 0.5971053884307673
+Recall score: 0.23033985882271543
+SSIM score: 0.7477984843142733
+MSE score: 0.11934540083940355
+Hamming distance: 0.11934540083940355
+Rand index: 0.8806545991605964
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 850
+Dice coefficient: 0.6071071187250643
+IoU score: 0.4358605940819872
+Precision score: 0.5151542855519443
+Recall score: 0.7390188106451763
+SSIM score: 0.708863316031418
+MSE score: 0.1234014337894898
+Hamming distance: 0.1234014337894898
+Rand index: 0.8765985662105102
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif
+
+Channel shape: (8488, 7708)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 6613.768633406325
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 1000
+
+Slice index: 1
+Thresh3: 1000
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2578228667873078
+IoU score: 0.14798889382267638
+Precision score: 0.6083042336573455
+Recall score: 0.16357644640691904
+SSIM score: 0.675334450282078
+MSE score: 0.17429340704811383
+Hamming distance: 0.17429340704811383
+Rand index: 0.8257065929518862
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 1000
+Dice coefficient: 0.35731027051515685
+IoU score: 0.2175153737810313
+Precision score: 0.45731945148262465
+Recall score: 0.293193149260517
+SSIM score: 0.8134740011862287
+MSE score: 0.08187466159985561
+Hamming distance: 0.08187466159985561
+Rand index: 0.9181253384001444
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 1000
+Dice coefficient: 0.4864045622595277
+IoU score: 0.3213570483442015
+Precision score: 0.34521009252822105
+Recall score: 0.8230338522207526
+SSIM score: 0.7106140668417618
+MSE score: 0.13492146732259028
+Hamming distance: 0.13492146732259028
+Rand index: 0.8650785326774098
+
+
+
+
+Doing slice: 2
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif
+
+Channel shape: (8910, 8788)
+Channel dtype: uint16
+Channel 1 min: 0
+Channel 1 max: 65535
+Channel 1 mean: 6050.577826653222
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 200
+
+Slice index: 2
+Thresh3: 200
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2389093051286089
+IoU score: 0.13565985319458856
+Precision score: 0.7489460631580009
+Recall score: 0.14212281574988417
+SSIM score: 0.7288199192085032
+MSE score: 0.14493365864174543
+Hamming distance: 0.14493365864174543
+Rand index: 0.8550663413582545
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 200
+Dice coefficient: 0.14704467817594385
+IoU score: 0.07935683955465937
+Precision score: 0.8205296721169477
+Recall score: 0.08075859247660773
+SSIM score: 0.5231762137483584
+MSE score: 0.28912565446096017
+Hamming distance: 0.28912565446096017
+Rand index: 0.7108743455390398
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 200
+Dice coefficient: 0.552489907822916
+IoU score: 0.38168294011129145
+Precision score: 0.8088596729064655
+Recall score: 0.41952164499790695
+SSIM score: 0.5764053758676574
+MSE score: 0.2097267240758365
+Hamming distance: 0.2097267240758365
+Rand index: 0.7902732759241635
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif
+
+Channel shape: (8910, 8788)
+Channel dtype: uint16
+Channel 1 min: 0
+Channel 1 max: 65535
+Channel 1 mean: 6050.577826653222
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 300
+
+Slice index: 2
+Thresh3: 300
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2389093051286089
+IoU score: 0.13565985319458856
+Precision score: 0.7489460631580009
+Recall score: 0.14212281574988417
+SSIM score: 0.7288199192085032
+MSE score: 0.14493365864174543
+Hamming distance: 0.14493365864174543
+Rand index: 0.8550663413582545
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 300
+Dice coefficient: 0.1486687470926168
+IoU score: 0.08030369868122908
+Precision score: 0.8204081529678003
+Recall score: 0.08174061035951832
+SSIM score: 0.5278929660481505
+MSE score: 0.28538045707670956
+Hamming distance: 0.28538045707670956
+Rand index: 0.7146195429232904
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 300
+Dice coefficient: 0.5557749503147698
+IoU score: 0.38482572396587444
+Precision score: 0.8071538764380339
+Recall score: 0.4237902731859314
+SSIM score: 0.5805469862418174
+MSE score: 0.20652019103695632
+Hamming distance: 0.20652019103695632
+Rand index: 0.7934798089630437
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif
+
+Channel shape: (8910, 8788)
+Channel dtype: uint16
+Channel 1 min: 0
+Channel 1 max: 65535
+Channel 1 mean: 6050.577826653222
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 400
+
+Slice index: 2
+Thresh3: 400
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2389093051286089
+IoU score: 0.13565985319458856
+Precision score: 0.7489460631580009
+Recall score: 0.14212281574988417
+SSIM score: 0.7288199192085032
+MSE score: 0.14493365864174543
+Hamming distance: 0.14493365864174543
+Rand index: 0.8550663413582545
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 400
+Dice coefficient: 0.15349624805028986
+IoU score: 0.08312804557706112
+Precision score: 0.819085318216183
+Recall score: 0.08468289354426886
+SSIM score: 0.5387931647033323
+MSE score: 0.27439464436505856
+Hamming distance: 0.27439464436505856
+Rand index: 0.7256053556349414
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 400
+Dice coefficient: 0.5670108456930026
+IoU score: 0.3956839756873196
+Precision score: 0.8038704296854865
+Recall score: 0.43796493439517814
+SSIM score: 0.590665406511198
+MSE score: 0.19650509290548737
+Hamming distance: 0.19650509290548737
+Rand index: 0.8034949070945127
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif
+
+Channel shape: (8910, 8788)
+Channel dtype: uint16
+Channel 1 min: 0
+Channel 1 max: 65535
+Channel 1 mean: 6050.577826653222
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 500
+
+Slice index: 2
+Thresh3: 500
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2389093051286089
+IoU score: 0.13565985319458856
+Precision score: 0.7489460631580009
+Recall score: 0.14212281574988417
+SSIM score: 0.7288199192085032
+MSE score: 0.14493365864174543
+Hamming distance: 0.14493365864174543
+Rand index: 0.8550663413582545
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 500
+Dice coefficient: 0.16725818706765413
+IoU score: 0.09126118359249129
+Precision score: 0.8102711853288964
+Recall score: 0.09325394924238135
+SSIM score: 0.5771690573293126
+MSE score: 0.24505792257271547
+Hamming distance: 0.24505792257271547
+Rand index: 0.7549420774272845
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 500
+Dice coefficient: 0.5986295846942637
+IoU score: 0.42717441310023735
+Precision score: 0.7928346175347067
+Recall score: 0.4808461925978836
+SSIM score: 0.6263939343327386
+MSE score: 0.17016564777906001
+Hamming distance: 0.17016564777906001
+Rand index: 0.82983435222094
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif
+
+Channel shape: (8910, 8788)
+Channel dtype: uint16
+Channel 1 min: 0
+Channel 1 max: 65535
+Channel 1 mean: 6050.577826653222
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 600
+
+Slice index: 2
+Thresh3: 600
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2389093051286089
+IoU score: 0.13565985319458856
+Precision score: 0.7489460631580009
+Recall score: 0.14212281574988417
+SSIM score: 0.7288199192085032
+MSE score: 0.14493365864174543
+Hamming distance: 0.14493365864174543
+Rand index: 0.8550663413582545
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 600
+Dice coefficient: 0.18397236342748974
+IoU score: 0.10130482583112611
+Precision score: 0.7875714923644768
+Recall score: 0.1041506962552585
+SSIM score: 0.62440774291815
+MSE score: 0.21220598745253577
+Hamming distance: 0.21220598745253577
+Rand index: 0.7877940125474642
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 600
+Dice coefficient: 0.6299842641679835
+IoU score: 0.4598372468951178
+Precision score: 0.7669945698253876
+Recall score: 0.5345043182806194
+SSIM score: 0.6664928852884953
+MSE score: 0.1442065166917238
+Hamming distance: 0.1442065166917238
+Rand index: 0.8557934833082762
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif
+
+Channel shape: (8910, 8788)
+Channel dtype: uint16
+Channel 1 min: 0
+Channel 1 max: 65535
+Channel 1 mean: 6050.577826653222
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 750
+
+Slice index: 2
+Thresh3: 750
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2389093051286089
+IoU score: 0.13565985319458856
+Precision score: 0.7489460631580009
+Recall score: 0.14212281574988417
+SSIM score: 0.7288199192085032
+MSE score: 0.14493365864174543
+Hamming distance: 0.14493365864174543
+Rand index: 0.8550663413582545
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 750
+Dice coefficient: 0.21242563182545038
+IoU score: 0.11883457024637077
+Precision score: 0.7188601924291468
+Recall score: 0.12462660938762153
+SSIM score: 0.6994987269832359
+MSE score: 0.16189910790502507
+Hamming distance: 0.16189910790502507
+Rand index: 0.838100892094975
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 750
+Dice coefficient: 0.6610195221526806
+IoU score: 0.493673756330938
+Precision score: 0.6922786418291806
+Recall score: 0.6324613881466901
+SSIM score: 0.7197078836667096
+MSE score: 0.1136431962368846
+Hamming distance: 0.1136431962368846
+Rand index: 0.8863568037631154
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif
+
+Channel shape: (8910, 8788)
+Channel dtype: uint16
+Channel 1 min: 0
+Channel 1 max: 65535
+Channel 1 mean: 6050.577826653222
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 850
+
+Slice index: 2
+Thresh3: 850
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2389093051286089
+IoU score: 0.13565985319458856
+Precision score: 0.7489460631580009
+Recall score: 0.14212281574988417
+SSIM score: 0.7288199192085032
+MSE score: 0.14493365864174543
+Hamming distance: 0.14493365864174543
+Rand index: 0.8550663413582545
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 850
+Dice coefficient: 0.22802445456584938
+IoU score: 0.1286837480084869
+Precision score: 0.6564577966938382
+Recall score: 0.13797553107417831
+SSIM score: 0.7410995114720131
+MSE score: 0.1350032719855205
+Hamming distance: 0.1350032719855205
+Rand index: 0.8649967280144795
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 850
+Dice coefficient: 0.6538884673239055
+IoU score: 0.48576098744504714
+Precision score: 0.6221274628443889
+Recall score: 0.6890668793856273
+SSIM score: 0.7393281553196368
+MSE score: 0.10541292661608244
+Hamming distance: 0.10541292661608244
+Rand index: 0.8945870733839175
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif
+
+Channel shape: (8910, 8788)
+Channel dtype: uint16
+Channel 1 min: 0
+Channel 1 max: 65535
+Channel 1 mean: 6050.577826653222
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 1000
+
+Slice index: 2
+Thresh3: 1000
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.2389093051286089
+IoU score: 0.13565985319458856
+Precision score: 0.7489460631580009
+Recall score: 0.14212281574988417
+SSIM score: 0.7288199192085032
+MSE score: 0.14493365864174543
+Hamming distance: 0.14493365864174543
+Rand index: 0.8550663413582545
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 1000
+Dice coefficient: 0.24622213768373963
+IoU score: 0.1403952820789673
+Precision score: 0.5589943932998799
+Recall score: 0.1578826107223339
+SSIM score: 0.7902332603950285
+MSE score: 0.10395349591602057
+Hamming distance: 0.10395349591602057
+Rand index: 0.8960465040839795
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 1000
+Dice coefficient: 0.6078476150986141
+IoU score: 0.43662433918228816
+Precision score: 0.5081216434436949
+Recall score: 0.7562776750165523
+SSIM score: 0.7508381159970403
+MSE score: 0.10493731376374374
+Hamming distance: 0.10493731376374374
+Rand index: 0.8950626862362563
+
+
+
+
+Doing slice: 3
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif
+
+Channel shape: (9090, 8908)
+Channel dtype: uint16
+Channel 1 min: 2
+Channel 1 max: 65535
+Channel 1 mean: 6104.436033678581
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 200
+
+Slice index: 3
+Thresh3: 200
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.3129902169920868
+IoU score: 0.18552958029326297
+Precision score: 0.6304359522350585
+Recall score: 0.20816974111469713
+SSIM score: 0.7407117879324493
+MSE score: 0.1372169637260089
+Hamming distance: 0.1372169637260089
+Rand index: 0.8627830362739911
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 200
+Dice coefficient: 0.24035294022717693
+IoU score: 0.13659156186593882
+Precision score: 0.7679297873294376
+Recall score: 0.1424725874550449
+SSIM score: 0.5746474980777021
+MSE score: 0.24066814517105056
+Hamming distance: 0.24066814517105056
+Rand index: 0.7593318548289495
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 200
+Dice coefficient: 0.575507933768454
+IoU score: 0.4040092236462532
+Precision score: 0.7998933237267113
+Recall score: 0.4494332917619591
+SSIM score: 0.6207067062994837
+MSE score: 0.1771774225020167
+Hamming distance: 0.1771774225020167
+Rand index: 0.8228225774979833
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif
+
+Channel shape: (9090, 8908)
+Channel dtype: uint16
+Channel 1 min: 2
+Channel 1 max: 65535
+Channel 1 mean: 6104.436033678581
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 300
+
+Slice index: 3
+Thresh3: 300
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.3129902169920868
+IoU score: 0.18552958029326297
+Precision score: 0.6304359522350585
+Recall score: 0.20816974111469713
+SSIM score: 0.7407117879324493
+MSE score: 0.1372169637260089
+Hamming distance: 0.1372169637260089
+Rand index: 0.8627830362739911
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 300
+Dice coefficient: 0.24154172797155113
+IoU score: 0.13735994297602724
+Precision score: 0.7679086149262951
+Recall score: 0.14330949902394585
+SSIM score: 0.5767380018918989
+MSE score: 0.23910229145950068
+Hamming distance: 0.23910229145950068
+Rand index: 0.7608977085404993
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 300
+Dice coefficient: 0.576491355643291
+IoU score: 0.40497917447056353
+Precision score: 0.7982501636744671
+Recall score: 0.4511571287747199
+SSIM score: 0.6222372569231832
+MSE score: 0.17610291338967754
+Hamming distance: 0.17610291338967754
+Rand index: 0.8238970866103225
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif
+
+Channel shape: (9090, 8908)
+Channel dtype: uint16
+Channel 1 min: 2
+Channel 1 max: 65535
+Channel 1 mean: 6104.436033678581
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 400
+
+Slice index: 3
+Thresh3: 400
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.3129902169920868
+IoU score: 0.18552958029326297
+Precision score: 0.6304359522350585
+Recall score: 0.20816974111469713
+SSIM score: 0.7407117879324493
+MSE score: 0.1372169637260089
+Hamming distance: 0.1372169637260089
+Rand index: 0.8627830362739911
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 400
+Dice coefficient: 0.2431085947182919
+IoU score: 0.13837428653099407
+Precision score: 0.7674851668634455
+Recall score: 0.14442895454624502
+SSIM score: 0.5791875164267375
+MSE score: 0.23693975032887213
+Hamming distance: 0.23693975032887213
+Rand index: 0.7630602496711278
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 400
+Dice coefficient: 0.5779353734427166
+IoU score: 0.4064058430606327
+Precision score: 0.7960070009902717
+Recall score: 0.4536537803223898
+SSIM score: 0.62396497212701
+MSE score: 0.17457200928893968
+Hamming distance: 0.17457200928893968
+Rand index: 0.8254279907110603
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif
+
+Channel shape: (9090, 8908)
+Channel dtype: uint16
+Channel 1 min: 2
+Channel 1 max: 65535
+Channel 1 mean: 6104.436033678581
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 500
+
+Slice index: 3
+Thresh3: 500
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.3129902169920868
+IoU score: 0.18552958029326297
+Precision score: 0.6304359522350585
+Recall score: 0.20816974111469713
+SSIM score: 0.7407117879324493
+MSE score: 0.1372169637260089
+Hamming distance: 0.1372169637260089
+Rand index: 0.8627830362739911
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 500
+Dice coefficient: 0.2510785707850958
+IoU score: 0.143561950005842
+Precision score: 0.763301250915395
+Recall score: 0.15025087534123857
+SSIM score: 0.5904350064780471
+MSE score: 0.22576533472835383
+Hamming distance: 0.22576533472835383
+Rand index: 0.7742346652716462
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 500
+Dice coefficient: 0.5910081656735262
+IoU score: 0.4194546421598248
+Precision score: 0.791204265734956
+Recall score: 0.4716643224046612
+SSIM score: 0.6342085982333432
+MSE score: 0.16442498874943623
+Hamming distance: 0.16442498874943623
+Rand index: 0.8355750112505638
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif
+
+Channel shape: (9090, 8908)
+Channel dtype: uint16
+Channel 1 min: 2
+Channel 1 max: 65535
+Channel 1 mean: 6104.436033678581
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 600
+
+Slice index: 3
+Thresh3: 600
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.3129902169920868
+IoU score: 0.18552958029326297
+Precision score: 0.6304359522350585
+Recall score: 0.20816974111469713
+SSIM score: 0.7407117879324493
+MSE score: 0.1372169637260089
+Hamming distance: 0.1372169637260089
+Rand index: 0.8627830362739911
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 600
+Dice coefficient: 0.2724024183747658
+IoU score: 0.15767700839133136
+Precision score: 0.7471140769081317
+Recall score: 0.16656686420021016
+SSIM score: 0.629568526396837
+MSE score: 0.1978799911872642
+Hamming distance: 0.1978799911872642
+Rand index: 0.8021200088127358
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 600
+Dice coefficient: 0.6261362601542682
+IoU score: 0.4557484428729269
+Precision score: 0.776743256447458
+Recall score: 0.5244481427106225
+SSIM score: 0.6709843281317677
+MSE score: 0.13927720005947608
+Hamming distance: 0.13927720005947608
+Rand index: 0.8607227999405239
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif
+
+Channel shape: (9090, 8908)
+Channel dtype: uint16
+Channel 1 min: 2
+Channel 1 max: 65535
+Channel 1 mean: 6104.436033678581
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 750
+
+Slice index: 3
+Thresh3: 750
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.3129902169920868
+IoU score: 0.18552958029326297
+Precision score: 0.6304359522350585
+Recall score: 0.20816974111469713
+SSIM score: 0.7407117879324493
+MSE score: 0.1372169637260089
+Hamming distance: 0.1372169637260089
+Rand index: 0.8627830362739911
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 750
+Dice coefficient: 0.30883957523108135
+IoU score: 0.18261991630585928
+Precision score: 0.6952745687056936
+Recall score: 0.19850827798474013
+SSIM score: 0.6995341013612638
+MSE score: 0.15428970041144213
+Hamming distance: 0.15428970041144213
+Rand index: 0.8457102995885579
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 750
+Dice coefficient: 0.6699249146049562
+IoU score: 0.5036745082748337
+Precision score: 0.722354313274575
+Recall score: 0.6245912816373811
+SSIM score: 0.7292058627936979
+MSE score: 0.10687962711852685
+Hamming distance: 0.10687962711852685
+Rand index: 0.8931203728814732
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif
+
+Channel shape: (9090, 8908)
+Channel dtype: uint16
+Channel 1 min: 2
+Channel 1 max: 65535
+Channel 1 mean: 6104.436033678581
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 850
+
+Slice index: 3
+Thresh3: 850
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.3129902169920868
+IoU score: 0.18552958029326297
+Precision score: 0.6304359522350585
+Recall score: 0.20816974111469713
+SSIM score: 0.7407117879324493
+MSE score: 0.1372169637260089
+Hamming distance: 0.1372169637260089
+Rand index: 0.8627830362739911
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 850
+Dice coefficient: 0.32787345651002847
+IoU score: 0.19608172466762525
+Precision score: 0.6461473698893555
+Recall score: 0.2196701537552706
+SSIM score: 0.738742676244924
+MSE score: 0.13134424353975585
+Hamming distance: 0.13134424353975585
+Rand index: 0.8686557564602442
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 850
+Dice coefficient: 0.6740894296432755
+IoU score: 0.5083973570418988
+Precision score: 0.6644040110936744
+Recall score: 0.6840614059095786
+SSIM score: 0.754226442569536
+MSE score: 0.0964653223292693
+Hamming distance: 0.0964653223292693
+Rand index: 0.9035346776707307
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif
+
+Channel shape: (9090, 8908)
+Channel dtype: uint16
+Channel 1 min: 2
+Channel 1 max: 65535
+Channel 1 mean: 6104.436033678581
+
+Threshold for ch1: 6000
+Threshold for ch2: 3000
+Threshold for ch3: 1000
+
+Slice index: 3
+Thresh3: 1000
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 6000 Thresh2: 3000
+Dice coefficient: 0.3129902169920868
+IoU score: 0.18552958029326297
+Precision score: 0.6304359522350585
+Recall score: 0.20816974111469713
+SSIM score: 0.7407117879324493
+MSE score: 0.1372169637260089
+Hamming distance: 0.1372169637260089
+Rand index: 0.8627830362739911
+
+Metrics for CH1 and CH3
+Thresh1: 6000 Thresh3: 1000
+Dice coefficient: 0.343284858277995
+IoU score: 0.2072081371340528
+Precision score: 0.5590209382612724
+Recall score: 0.24769497925977987
+SSIM score: 0.7822687380785781
+MSE score: 0.10604376333457324
+Hamming distance: 0.10604376333457324
+Rand index: 0.8939562366654268
+
+Metrics for CH2 and CH3
+Thresh2: 3000 Thresh3: 1000
+Dice coefficient: 0.6418836458152284
+IoU score: 0.4726278745097125
+Precision score: 0.5601157400553368
+Recall score: 0.7516060647264392
+SSIM score: 0.7702285597652168
+MSE score: 0.09384338523659282
+Hamming distance: 0.09384338523659282
+Rand index: 0.9061566147634071
+
+
+
+
+Doing slice: 4
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif
+
+Channel shape: (7530, 8128)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 7404.069456556974
+
+Threshold for ch1: 7500
+Threshold for ch2: 4000
+Threshold for ch3: 200
+
+Slice index: 4
+Thresh3: 200
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 4000
+Dice coefficient: 0.392225966808255
+IoU score: 0.24395590344845286
+Precision score: 0.5754575113633742
+Recall score: 0.2974991888848598
+SSIM score: 0.7019693683718504
+MSE score: 0.15786262757369474
+Hamming distance: 0.15786262757369474
+Rand index: 0.8421373724263053
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 200
+Dice coefficient: 0.32544635946666967
+IoU score: 0.1943481245324682
+Precision score: 0.6892193534989963
+Recall score: 0.21301572608394262
+SSIM score: 0.551872451647274
+MSE score: 0.2529034779517102
+Hamming distance: 0.2529034779517102
+Rand index: 0.7470965220482898
+
+Metrics for CH2 and CH3
+Thresh2: 4000 Thresh3: 200
+Dice coefficient: 0.6134876504299457
+IoU score: 0.44246821935641834
+Precision score: 0.8198345325114034
+Recall score: 0.49012616476912446
+SSIM score: 0.6230136260235247
+MSE score: 0.1768770554265876
+Hamming distance: 0.1768770554265876
+Rand index: 0.8231229445734124
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif
+
+Channel shape: (7530, 8128)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 7404.069456556974
+
+Threshold for ch1: 7500
+Threshold for ch2: 4000
+Threshold for ch3: 300
+
+Slice index: 4
+Thresh3: 300
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 4000
+Dice coefficient: 0.392225966808255
+IoU score: 0.24395590344845286
+Precision score: 0.5754575113633742
+Recall score: 0.2974991888848598
+SSIM score: 0.7019693683718504
+MSE score: 0.15786262757369474
+Hamming distance: 0.15786262757369474
+Rand index: 0.8421373724263053
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 300
+Dice coefficient: 0.3266063096336002
+IoU score: 0.19517601357878178
+Precision score: 0.6892165847580812
+Recall score: 0.214010968793137
+SSIM score: 0.5537232155172421
+MSE score: 0.2515709308435549
+Hamming distance: 0.2515709308435549
+Rand index: 0.7484290691564451
+
+Metrics for CH2 and CH3
+Thresh2: 4000 Thresh3: 300
+Dice coefficient: 0.6147542732915678
+IoU score: 0.44378716457211054
+Precision score: 0.8191341107315304
+Recall score: 0.49199739375385876
+SSIM score: 0.624615816553843
+MSE score: 0.17578387238447785
+Hamming distance: 0.17578387238447785
+Rand index: 0.8242161276155222
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif
+
+Channel shape: (7530, 8128)
+Channel dtype: uint16
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 7404.069456556974
+
+Threshold for ch1: 7500
+Threshold for ch2: 4000
+Threshold for ch3: 400
+
+Slice index: 4
+Thresh3: 400
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 4000
+Dice coefficient: 0.392225966808255
+IoU score: 0.24395590344845286
+Precision score: 0.5754575113633742
+Recall score: 0.2974991888848598
+SSIM score: 0.7019693683718504
+MSE score: 0.15786262757369474
+Hamming distance: 0.15786262757369474
+Rand index: 0.8421373724263053
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 400
+Dice coefficient: 0.327928498622232
+IoU score: 0.19612109790282453
+Precision score: 0.6891272467178884
+Recall score: 0.21515649854594587
+SSIM score: 0.555794460338499
+MSE score: 0.2500322365394067
+Hamming distance: 0.2500322365394067
+Rand index: 0.7499677634605934
+
+Metrics for CH2 and CH3
+Thresh2: 4000 Thresh3: 400
+Dice coefficient: 0.6159408734841946
+IoU score: 0.4450249716099544
+Precision score: 0.8179191556768517
+Recall score: 0.49396127539984325
+SSIM score: 0.6262533803924708
+MSE score: 0.17464541440537065
+Hamming distance: 0.17464541440537065
+Rand index: 0.8253545855946294
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif
+
+Channel shape: (7530, 8128)
+Channel dtype: uint16
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 7404.069456556974
+
+Threshold for ch1: 7500
+Threshold for ch2: 4000
+Threshold for ch3: 500
+
+Slice index: 4
+Thresh3: 500
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 4000
+Dice coefficient: 0.392225966808255
+IoU score: 0.24395590344845286
+Precision score: 0.5754575113633742
+Recall score: 0.2974991888848598
+SSIM score: 0.7019693683718504
+MSE score: 0.15786262757369474
+Hamming distance: 0.15786262757369474
+Rand index: 0.8421373724263053
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 500
+Dice coefficient: 0.3299945064779697
+IoU score: 0.1976008508702648
+Precision score: 0.688776539535313
+Recall score: 0.21697352318450472
+SSIM score: 0.5586829154664832
+MSE score: 0.2475769820978553
+Hamming distance: 0.2475769820978553
+Rand index: 0.7524230179021447
+
+Metrics for CH2 and CH3
+Thresh2: 4000 Thresh3: 500
+Dice coefficient: 0.6179541557632565
+IoU score: 0.44712999814020743
+Precision score: 0.816049964692635
+Recall score: 0.4972475161940826
+SSIM score: 0.6284666275100607
+MSE score: 0.17276816291265384
+Hamming distance: 0.17276816291265384
+Rand index: 0.8272318370873462
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif
+
+Channel shape: (7530, 8128)
+Channel dtype: uint16
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 7404.069456556974
+
+Threshold for ch1: 7500
+Threshold for ch2: 4000
+Threshold for ch3: 600
+
+Slice index: 4
+Thresh3: 600
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 4000
+Dice coefficient: 0.392225966808255
+IoU score: 0.24395590344845286
+Precision score: 0.5754575113633742
+Recall score: 0.2974991888848598
+SSIM score: 0.7019693683718504
+MSE score: 0.15786262757369474
+Hamming distance: 0.15786262757369474
+Rand index: 0.8421373724263053
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 600
+Dice coefficient: 0.33650787057063103
+IoU score: 0.20229002867964516
+Precision score: 0.6878161556032394
+Recall score: 0.22274093536332817
+SSIM score: 0.5665224392303456
+MSE score: 0.24008951072351015
+Hamming distance: 0.24008951072351015
+Rand index: 0.7599104892764899
+
+Metrics for CH2 and CH3
+Thresh2: 4000 Thresh3: 600
+Dice coefficient: 0.625763286079687
+IoU score: 0.45535334614555545
+Precision score: 0.8123695058877417
+Recall score: 0.5088722362709799
+SSIM score: 0.6354140396414277
+MSE score: 0.1663710152827012
+Hamming distance: 0.1663710152827012
+Rand index: 0.8336289847172987
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif
+
+Channel shape: (7530, 8128)
+Channel dtype: uint16
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 7404.069456556974
+
+Threshold for ch1: 7500
+Threshold for ch2: 4000
+Threshold for ch3: 750
+
+Slice index: 4
+Thresh3: 750
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 4000
+Dice coefficient: 0.392225966808255
+IoU score: 0.24395590344845286
+Precision score: 0.5754575113633742
+Recall score: 0.2974991888848598
+SSIM score: 0.7019693683718504
+MSE score: 0.15786262757369474
+Hamming distance: 0.15786262757369474
+Rand index: 0.8421373724263053
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 750
+Dice coefficient: 0.3705427598464659
+IoU score: 0.22740256737976866
+Precision score: 0.6792533628665698
+Recall score: 0.25475870011684476
+SSIM score: 0.6141977101657525
+MSE score: 0.20427723162468236
+Hamming distance: 0.20427723162468236
+Rand index: 0.7957227683753176
+
+Metrics for CH2 and CH3
+Thresh2: 4000 Thresh3: 750
+Dice coefficient: 0.6654695439445494
+IoU score: 0.49865444503343626
+Precision score: 0.7913764146802298
+Recall score: 0.5741267830111391
+SSIM score: 0.6783880436625879
+MSE score: 0.13623174624337298
+Hamming distance: 0.13623174624337298
+Rand index: 0.863768253756627
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif
+
+Channel shape: (7530, 8128)
+Channel dtype: uint16
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 7404.069456556974
+
+Threshold for ch1: 7500
+Threshold for ch2: 4000
+Threshold for ch3: 850
+
+Slice index: 4
+Thresh3: 850
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 4000
+Dice coefficient: 0.392225966808255
+IoU score: 0.24395590344845286
+Precision score: 0.5754575113633742
+Recall score: 0.2974991888848598
+SSIM score: 0.7019693683718504
+MSE score: 0.15786262757369474
+Hamming distance: 0.15786262757369474
+Rand index: 0.8421373724263053
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 850
+Dice coefficient: 0.3990910649764359
+IoU score: 0.24929029768364785
+Precision score: 0.6620140744329849
+Recall score: 0.28564526884771724
+SSIM score: 0.6573198189289371
+MSE score: 0.17646726087774886
+Hamming distance: 0.17646726087774886
+Rand index: 0.8235327391222511
+
+Metrics for CH2 and CH3
+Thresh2: 4000 Thresh3: 850
+Dice coefficient: 0.6886748824208649
+IoU score: 0.5251747817446235
+Precision score: 0.7569067885565968
+Recall score: 0.6317273653093354
+SSIM score: 0.7124125521995996
+MSE score: 0.11717367733789252
+Hamming distance: 0.11717367733789252
+Rand index: 0.8828263226621075
+
+
+
+
+
+Found 5 slices
+['/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 2/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 3/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 5/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 6/CH3.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif',
+ '/media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif']
+
+Ch1: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH1.tif
+Ch2: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH2.tif
+Ch3: /media/data/u01/Fig3/M13/Fig3_M13_slice 7/CH3.tif
+
+Channel shape: (7530, 8128)
+Channel dtype: uint16
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+TIFFReadDirectory: Warning, Unknown field with tag 33560 (0x8318) encountered.
+Channel 1 min: 3
+Channel 1 max: 65535
+Channel 1 mean: 7404.069456556974
+
+Threshold for ch1: 7500
+Threshold for ch2: 4000
+Threshold for ch3: 1000
+
+Slice index: 4
+Thresh3: 1000
+
+Beta: 0.5
+
+Metrics for CH1 and CH2
+Thresh1: 7500 Thresh2: 4000
+Dice coefficient: 0.392225966808255
+IoU score: 0.24395590344845286
+Precision score: 0.5754575113633742
+Recall score: 0.2974991888848598
+SSIM score: 0.7019693683718504
+MSE score: 0.15786262757369474
+Hamming distance: 0.15786262757369474
+Rand index: 0.8421373724263053
+
+Metrics for CH1 and CH3
+Thresh1: 7500 Thresh3: 1000
+Dice coefficient: 0.4311295216874177
+IoU score: 0.27480249494599723
+Precision score: 0.617286357029141
+Recall score: 0.33123732253530375
+SSIM score: 0.7099418480635541
+MSE score: 0.14419578902238814
+Hamming distance: 0.14419578902238814
+Rand index: 0.8558042109776118
+
+Metrics for CH2 and CH3
+Thresh2: 4000 Thresh3: 1000
+Dice coefficient: 0.6908139524541808
+IoU score: 0.5276667542777211
+Precision score: 0.6781822432582018
+Recall score: 0.7039251446316784
+SSIM score: 0.7428915805679374
+MSE score: 0.1039424487091006
+Hamming distance: 0.1039424487091006
+Rand index: 0.8960575512908994

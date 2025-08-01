@@ -1,0 +1,12 @@
+*.gz
+*.pyc
+*.npy
+*.pkl
+*.tif
+*.hdr
+*.img
+*.gif
+/elastix
+*.nii
+andy/jacobian/jacobian_analysis_code.zip
+andy/analyze_counting copy.ipynb
